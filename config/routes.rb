@@ -1,4 +1,18 @@
 Financials::Application.routes.draw do
+  get "pages/home"
+
+  get "pages/currentyear"
+
+  get "pages/weekdate"
+
+  get "pages/budget"
+
+  get "pages/pledge"
+
+  get "pages/user"
+
+  get "pages/donation"
+
   resources :current_years
 
   resources :donations
