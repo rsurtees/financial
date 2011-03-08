@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Year:</b>
+  <%= @current_year.year %>
+</p>
+
+<p>
+  <b>First sunday:</b>
+  <%= @current_year.first_week %>
+</p>
+
+
+<%= link_to 'Edit', edit_current_year_path(@current_year) %> |
+<%= link_to 'Back', current_years_path %>

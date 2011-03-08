@@ -1,0 +1,40 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Qmw:</b>
+  <%= @weekdate.qmw %>
+</p>
+
+<p>
+  <b>Year:</b>
+  <%= @weekdate.year %>
+</p>
+
+<p>
+  <b>Quarter:</b>
+  <%= @weekdate.quarter %>
+</p>
+
+<p>
+  <b>Month:</b>
+  <%= @weekdate.month %>
+</p>
+
+<p>
+  <b>Day:</b>
+  <%= @weekdate.day %>
+</p>
+
+<p>
+  <b>Week:</b>
+  <%= @weekdate.week %>
+</p>
+
+<p>
+  <b>date_string:</b>
+  <%= @weekdate.date_string %>
+</p>
+
+
+<%= link_to 'Edit', edit_weekdate_path(@weekdate) %> |
+<%= link_to 'Back', weekdates_path %>

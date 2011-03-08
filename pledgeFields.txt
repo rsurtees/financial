@@ -1,0 +1,15 @@
+Ident
+Name
+Address(key)
+Pledge
+freq
+Total1
+Created
+Pledge2
+freq2
+Total2
+Total
+Household
+Total3
+Total4
+Grand Total

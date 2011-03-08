@@ -1,0 +1,45 @@
+<%= form_for(@weekdate) do |f| %>
+  <% if @weekdate.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@weekdate.errors.count, "error") %> prohibited this weekdate from being saved:</h2>
+
+      <ul>
+      <% @weekdate.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :qmw %><br />
+    <%= f.text_field :qmw %>
+  </div>
+  <div class="field">
+    <%= f.label :year %><br />
+    <%= f.text_field :year %>
+  </div>
+  <div class="field">
+    <%= f.label :quarter %><br />
+    <%= f.text_field :quarter %>
+  </div>
+  <div class="field">
+    <%= f.label :month %><br />
+    <%= f.text_field :month %>
+  </div>
+  <div class="field">
+    <%= f.label :day %><br />
+    <%= f.text_field :day %>
+  </div>
+  <div class="field">
+    <%= f.label :week %><br />
+    <%= f.text_field :week %>
+  </div>
+  <div class="field">
+    <%= f.label :date_string %><br />
+    <%= f.text_field :date_string %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

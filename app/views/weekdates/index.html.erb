@@ -1,0 +1,35 @@
+<h1>Listing weekdates</h1>
+
+<table>
+  <tr>
+    <th>Qmw</th>
+    <th>Year</th>
+    <th>Quarter</th>
+    <th>Month</th>
+    <th>Day</th>
+    <th>Week</th>
+    <th>date_string</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @weekdates.each do |weekdate| %>
+  <tr>
+    <td><%= weekdate.qmw %></td>
+    <td><%= weekdate.year %></td>
+    <td><%= weekdate.quarter %></td>
+    <td><%= weekdate.month %></td>
+    <td><%= weekdate.day %></td>
+    <td><%= weekdate.week %></td>
+    <td><%= weekdate.date_string %></td>
+    <td><%= link_to 'Show', weekdate %></td>
+    <td><%= link_to 'Edit', edit_weekdate_path(weekdate) %></td>
+    <td><%= link_to 'Destroy', weekdate, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Weekdate', new_weekdate_path %>
