@@ -1,0 +1,15 @@
+<header>
+  <% logo = image_tag("exterior1-small2.jpg", :alt => "Financial App", :class => "round" ) %>
+  <%= link_to logo,  root_path %>
+  <nav class="round">
+    <ul>
+      <li><%= link_to "Home", root_path %></li>
+      <li><%= link_to "About", about_path %></li>
+      <li><%= link_to "Current Year", currentyear_path %></li>
+      <li><%= link_to "Week Dates", weekdate_path %></li>
+      <li><%= link_to "Budgets", budget_path %></li>
+      <li><%= link_to "Donations", donation_path %></li>
+      <li><%= link_to "Pledges", pledge_path %></li>
+    </ul>
+  </nav>
+</header>
