@@ -2,7 +2,7 @@ class WeekdatesController < ApplicationController
   # GET /weekdates
   # GET /weekdates.xml
   def index
-    @weekdates = Weekdate.all
+    @weekdates = Weekdate.order("qmw").page(params[:page]).per(13)
 
     respond_to do |format|
       format.html # index.html.erb

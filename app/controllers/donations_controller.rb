@@ -2,7 +2,7 @@ class DonationsController < ApplicationController
   # GET /donations
   # GET /donations.xml
   def index
-    @donations = Donation.all
+    @donations = Donation.order("id").page(params[:page]).per(16)
 
     respond_to do |format|
       format.html # index.html.erb

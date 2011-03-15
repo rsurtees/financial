@@ -2,7 +2,7 @@ class PledgesController < ApplicationController
   # GET /pledges
   # GET /pledges.xml
   def index
-    @pledges = Pledge.all
+    @pledges = Pledge.order("user_id").page(params[:page]).per(15)
 
     respond_to do |format|
       format.html # index.html.erb

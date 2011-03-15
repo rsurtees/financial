@@ -6,12 +6,9 @@
     <th>First</th>
     <th>Surname</th>
 	<th>Pledge</th>
-    <th>Street</th>
-    <th>po_box</th>
-    <th>Town</th>
-    <th>State</th>
-    <th>Zip</th>
-    <th>Email</th>
+    <th>Street Address<br>PO Box</br></th>
+    <th>Town<br>State</br></th>
+    <th>Zip<br>Email</br></th>
     <th>Status</th>
     <th></th>
     <th></th>
@@ -24,12 +21,9 @@
     <td><%= user.first %></td>
     <td><%= user.surname %></td>
 	<td><%= user.pledge_id %></td>
-    <td><%= user.street %></td>
-    <td><%= user.po_box %></td>
-    <td><%= user.town %></td>
-    <td><%= user.state %></td>
-    <td><%= user.zip %></td>
-    <td><%= user.email %></td>
+    <td><%= user.street %><br><%= user.po_box %></br></td>
+    <td><%= user.town %><br><%= user.state %></br></td>
+    <td><%= user.zip %><br><%= user.email %></br></td>
     <td><%= user.status %></td>
     <td><%= link_to 'Show', "/users/#{user.id}" %></td>
     <td><%= link_to 'Edit', edit_user_path(user) %></td>
@@ -39,5 +33,7 @@
 </table>
 
 <br />
+
+<%= paginate @users %>
 
 <%= link_to 'New User', new_user_path %>

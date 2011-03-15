@@ -4,7 +4,8 @@
   <tr>
     <th>Amount</th>
     <th>User</th>
-    <th>Weekdate</th>
+    <th>QMW</th>
+    <th>Dateate</th>
     <th>Budget</th>
     <th></th>
     <th></th>
@@ -15,7 +16,8 @@
   <tr>
     <td><%= donation.amount %></td>
     <td><%= donation.user_id %></td>
-    <td><%= donation.weekdate_id %></td>
+    <td><%= donation.weekdate.qmw %></td>
+    <td><%= donation.weekdate.date_string %></td>
     <td><%= donation.budget.description %></td>
     <td><%= link_to 'Show', "/donations/#{donation.id}" %></td>
     <td><%= link_to 'Edit', edit_donation_path(donation) %></td>
@@ -25,5 +27,7 @@
 </table>
 
 <br />
+
+<%= paginate @donations %>
 
 <%= link_to 'New Donation', new_donation_path %>

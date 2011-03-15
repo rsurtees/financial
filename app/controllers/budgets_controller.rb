@@ -2,7 +2,7 @@ class BudgetsController < ApplicationController
   # GET /budgets
   # GET /budgets.xml
   def index
-    @budgets = Budget.all
+    @budgets = Budget.order("description").page(params[:page]).per(16)
 
     respond_to do |format|
       format.html # index.html.erb
