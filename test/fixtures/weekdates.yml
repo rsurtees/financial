@@ -1,3 +1,20 @@
+# == Schema Information
+# Schema version: 20110223021550
+#
+# Table name: weekdates
+#
+#  id          :integer         not null, primary key
+#  qmw         :integer(3)      default(111)
+#  year        :integer(5)      default(2009)
+#  quarter     :integer(2)      default(1)
+#  month       :integer(2)      default(1)
+#  day         :integer(2)      default(1)
+#  week        :integer(2)      default(1)
+#  date_string :string(20)
+#  created_at  :datetime
+#  updated_at  :datetime
+#
+
 # Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
 
 one:

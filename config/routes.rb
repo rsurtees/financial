@@ -12,7 +12,7 @@ Financials::Application.routes.draw do
 
   get "pages/home"
 
-  get "pages/currentyear"
+  get "pages/current_year"
 
   get "pages/weekdate"
 

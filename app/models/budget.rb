@@ -1,3 +1,14 @@
+# == Schema Information
+# Schema version: 20110223021550
+#
+# Table name: budgets
+#
+#  id          :integer         not null, primary key
+#  description :string(50)
+#  created_at  :datetime
+#  updated_at  :datetime
+#
+
 class BudgetObj
   attr_reader :id, :description, :created
 

@@ -10,10 +10,12 @@
   <body>
     <div class="container">
       <%= render 'layouts/header' %>
+      <!-- <h1><a href="#" id="alert" data-message="Thanks for testing!">Test Here</a></h1> -->
       <section class="round">
         <%= yield %>
       </section>
       <%= render 'layouts/footer' %>
+      <%= debug(params) %>
     </div>
   </body>
 </html>

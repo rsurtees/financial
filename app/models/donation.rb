@@ -1,3 +1,17 @@
+# == Schema Information
+# Schema version: 20110223021550
+#
+# Table name: donations
+#
+#  id          :integer         not null, primary key
+#  amount      :float
+#  user_id     :integer
+#  weekdate_id :integer
+#  budget_id   :integer
+#  created_at  :datetime
+#  updated_at  :datetime
+#
+
 class DonationObj
   attr_reader :id, :user_id, :week, :month, :quarter, :budget_id, :amount, :qmw, :created
 

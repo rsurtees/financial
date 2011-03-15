@@ -1,3 +1,23 @@
+# == Schema Information
+# Schema version: 20110223021550
+#
+# Table name: users
+#
+#  id         :integer         not null, primary key
+#  first      :string(50)
+#  surname    :string(50)
+#  street     :string(50)
+#  po_box     :string(50)
+#  town       :string(50)
+#  state      :string(50)
+#  zip        :string(5)
+#  email      :string(50)
+#  status     :boolean
+#  pledge_id  :integer
+#  created_at :datetime
+#  updated_at :datetime
+#
+
 class UserObj
   attr_reader :id, :name, :first, :surname, :street, :po_box, :town, :state, :zip, :created, :amount, :freq, :email, :status, :pledge_id
   attr_writer :status, :pledge_id

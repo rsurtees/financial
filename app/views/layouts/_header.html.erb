@@ -1,15 +1,26 @@
 <header>
   <% logo = image_tag("exterior1-small2.jpg", :alt => "Financial App", :class => "round" ) %>
   <%= link_to logo,  root_path %>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js" 
+               type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript" charset="utf-8">
+    $(function() {
+	  $("#alert").click(function() {
+		alert(this.getAttribute("data-message"));
+		return false;
+	  })
+	})
+  </script>
   <nav class="round">
     <ul>
       <li><%= link_to "Home", root_path %></li>
       <li><%= link_to "About", about_path %></li>
-      <li><%= link_to "Current Year", currentyear_path %></li>
-      <li><%= link_to "Week Dates", weekdate_path %></li>
-      <li><%= link_to "Budgets", budget_path %></li>
-      <li><%= link_to "Donations", donation_path %></li>
-      <li><%= link_to "Pledges", pledge_path %></li>
+      <li><%= link_to "Current Year", current_years_path %></li>
+      <li><%= link_to "Week Dates", weekdates_path %></li>
+      <li><%= link_to "Budgets", budgets_path %></li>
+      <li><%= link_to "Donations", donations_path %></li>
+      <li><%= link_to "Users", users_path %></li>
+      <li><%= link_to "Pledges", pledges_path %></li>
     </ul>
   </nav>
 </header>
