@@ -1,0 +1,1588 @@
+"ID"	"USER"	"Q"	"M"	"W"	"B"	"Amount"	"Date"	"Budget"	"Name"	"Status"	"Amnt1"	"Freq1"	"Amnt2"	"Freq2"
+9561	8001	1	1	4	1	100.	7/26/2009	General	Akins, Caroline	Yes	50	Month
+9562	8001	1	1	4	6	10	7/26/2009	Forward in Faith	Akins, Caroline	Yes	50	Month
+9602	8001	1	2	1	1	100	7/26/2009	General	Akins, Caroline	Yes	50	Month
+9603	8001	1	2	1	6	10	7/26/2009	Forward in Faith	Akins, Caroline	Yes	50	Month
+9872	8001	2	1	1	1	200.00	1/18/2010	General	Akins, Caroline	Yes	50	Month
+9873	8001	2	1	1	6	20.00	1/18/2010	Forward in Faith	Akins, Caroline	Yes	50	Month
+10028	8001	2	2	2	1	100.00	1/18/2010	General	Akins, Caroline	Yes	50	Month
+10029	8001	2	2	2	6	20.00	1/18/2010	Forward in Faith	Akins, Caroline	Yes	50	Month
+10153	8001	2	3	1	1	100.00	1/18/2010	General	Akins, Caroline	Yes	50	Month
+10154	8001	2	3	1	6	20.00	1/18/2010	Forward in Faith	Akins, Caroline	Yes	50	Month
+10273	8001	3	1	1	1	100.00	1/19/2010	General	Akins, Caroline	Yes	50	Month
+10272	8001	3	1	1	6	50.00	1/19/2010	Forward in Faith	Akins, Caroline	Yes	50	Month
+10403	8001	3	2	1	1	100.00	1/19/2010	General	Akins, Caroline	Yes	50	Month
+10404	8001	3	2	1	6	50.00	1/19/2010	Forward in Faith	Akins, Caroline	Yes	50	Month
+10565	8001	3	3	1	1	100.	1/19/2010	General	Akins, Caroline	Yes	50	Month
+10566	8001	3	3	1	6	50.	1/19/2010	Forward in Faith	Akins, Caroline	Yes	50	Month
+10711	8001	4	1	2	1	100	1/19/2010	General	Akins, Caroline	Yes	50	Month
+10712	8001	4	1	2	6	50	1/19/2010	Forward in Faith	Akins, Caroline	Yes	50	Month
+10820	8001	4	2	1	1	100	1/19/2010	General	Akins, Caroline	Yes	50	Month
+10821	8001	4	2	1	6	50	1/19/2010	Forward in Faith	Akins, Caroline	Yes	50	Month
+10986	8001	4	3	1	1	100	1/19/2010	General	Akins, Caroline	Yes	50	Month
+10987	8001	4	3	1	6	50	1/19/2010	Forward in Faith	Akins, Caroline	Yes	50	Month
+11088	8001	4	3	4	2	50	1/19/2010	Lottie Moon	Akins, Caroline	Yes	50	Month
+9531	8003	1	1	1	1	10	1/4/2009	General	Blaise, Roberta	Yes		
+9552	8003	1	1	3	1	10.	7/26/2009	General	Blaise, Roberta	Yes	260	Year
+9581	8003	1	1	4	1	10	7/26/2009	General	Blaise, Roberta	Yes	260	Year
+9594	8003	1	2	1	1	10	7/26/2009	General	Blaise, Roberta	Yes	260	Year
+9618	8003	1	2	2	1	10	7/26/2009	General	Blaise, Roberta	Yes	260	Year
+9639	8003	1	2	3	1	10	7/26/2009	General	Blaise, Roberta	Yes	260	Year
+9708	8003	1	2	3	1	10.00	1/18/2010	General	Blaise, Roberta	Yes	260	Year
+9661	8003	1	2	4	1	10	7/26/2009	General	Blaise, Roberta	Yes	260	Year
+9730	8003	1	2	4	1	10.00	1/18/2010	General	Blaise, Roberta	Yes	260	Year
+9757	8003	1	3	1	1	10.00	1/18/2010	General	Blaise, Roberta	Yes	260	Year
+9773	8003	1	3	2	1	10.00	1/18/2010	General	Blaise, Roberta	Yes	260	Year
+9815	8003	1	3	3	1	10.00	1/18/2010	General	Blaise, Roberta	Yes	260	Year
+9856	8003	1	3	5	1	10.00	1/18/2010	General	Blaise, Roberta	Yes	260	Year
+9887	8003	2	1	1	1	10.00	1/18/2010	General	Blaise, Roberta	Yes	260	Year
+9951	8003	2	1	3	1	10.00	1/18/2010	General	Blaise, Roberta	Yes	260	Year
+9992	8003	2	2	1	1	10.00	1/18/2010	General	Blaise, Roberta	Yes	260	Year
+10023	8003	2	2	2	1	10.00	1/18/2010	General	Blaise, Roberta	Yes	260	Year
+10066	8003	2	2	3	1	10.00	1/18/2010	General	Blaise, Roberta	Yes	260	Year
+10092	8003	2	2	4	1	10.00	1/18/2010	General	Blaise, Roberta	Yes	260	Year
+10126	8003	2	2	5	1	10.00	1/18/2010	General	Blaise, Roberta	Yes	260	Year
+10151	8003	2	3	1	1	10.00	1/18/2010	General	Blaise, Roberta	Yes	260	Year
+10168	8003	2	3	2	1	10.00	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10201	8003	2	3	3	1	10.00	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10229	8003	2	3	4	1	10.00	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10251	8003	2	3	4	6	260.00	1/19/2010	Forward in Faith	Blaise, Roberta	Yes	260	Year
+10269	8003	3	1	1	1	10.00	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10341	8003	3	1	3	1	10.00	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10370	8003	3	1	4	1	10.00	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10467	8003	3	2	3	1	10.00	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10502	8003	3	2	4	1	10.00	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10519	8003	3	2	5	1	10	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10556	8003	3	3	1	1	10.	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10589	8003	3	3	2	1	10	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10606	8003	3	3	3	1	10	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10678	8003	4	1	1	1	10	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10716	8003	4	1	2	1	10	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10738	8003	4	1	3	1	10	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10771	8003	4	1	4	1	10	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10822	8003	4	2	1	1	10	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10856	8003	4	2	2	1	10	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10900	8003	4	2	3	1	10	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10927	8003	4	2	4	1	10	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10964	8003	4	2	5	1	10	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+10992	8003	4	3	1	1	10	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+11019	8003	4	3	2	1	10	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+11054	8003	4	3	3	1	10	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+11101	8003	4	3	4	1	10	1/19/2010	General	Blaise, Roberta	Yes	260	Year
+9556	8004	1	1	3	1	93.	7/26/2009	General	Bourbeau, Mark	Yes	10.00	Month
+9569	8004	1	1	4	1	71	7/26/2009	General	Bourbeau, Mark	Yes	10.00	Month
+9610	8004	1	2	2	1	70	7/26/2009	General	Bourbeau, Mark	Yes	10.00	Month
+9646	8004	1	2	3	1	66	7/26/2009	General	Bourbeau, Mark	Yes	10.00	Month
+9715	8004	1	2	3	1	66.00	1/18/2010	General	Bourbeau, Mark	Yes	10.00	Month
+9660	8004	1	2	4	1	66	7/26/2009	General	Bourbeau, Mark	Yes	10.00	Month
+9729	8004	1	2	4	1	66.00	1/18/2010	General	Bourbeau, Mark	Yes	10.00	Month
+9767	8004	1	3	1	1	66.00	1/18/2010	General	Bourbeau, Mark	Yes	10.00	Month
+9800	8004	1	3	3	1	105.00	1/18/2010	General	Bourbeau, Mark	Yes	10.00	Month
+9886	8004	2	1	1	1	200.00	1/18/2010	General	Bourbeau, Mark	Yes	10.00	Month
+9918	8004	2	1	2	1	70.00	1/18/2010	General	Bourbeau, Mark	Yes	10.00	Month
+9962	8004	2	1	4	1	133.00	1/18/2010	General	Bourbeau, Mark	Yes	10.00	Month
+10009	8004	2	2	1	1	67.00	1/18/2010	General	Bourbeau, Mark	Yes	10.00	Month
+10039	8004	2	2	2	1	66.00	1/18/2010	General	Bourbeau, Mark	Yes	10.00	Month
+10073	8004	2	2	3	1	60.00	1/18/2010	General	Bourbeau, Mark	Yes	10.00	Month
+10089	8004	2	2	4	1	68.00	1/18/2010	General	Bourbeau, Mark	Yes	10.00	Month
+10158	8004	2	3	1	44	25.00	1/18/2010	Youth	Bourbeau, Mark	Yes	10.00	Month
+10231	8004	2	3	4	1	270.00	1/19/2010	General	Bourbeau, Mark	Yes	10.00	Month
+10316	8004	3	1	2	1	65.00	1/19/2010	General	Bourbeau, Mark	Yes	10.00	Month
+10499	8004	3	2	4	1	60.00	1/19/2010	General	Bourbeau, Mark	Yes	10.00	Month
+10498	8004	3	2	4	6	10.00	1/19/2010	Forward in Faith	Bourbeau, Mark	Yes	10.00	Month
+10583	8004	3	3	2	1	60.	1/19/2010	General	Bourbeau, Mark	Yes	10.00	Month
+10584	8004	3	3	2	6	10.	1/19/2010	Forward in Faith	Bourbeau, Mark	Yes	10.00	Month
+10625	8004	3	3	4	1	70	1/19/2010	General	Bourbeau, Mark	Yes	10.00	Month
+10665	8004	4	1	1	1	80	1/19/2010	General	Bourbeau, Mark	Yes	10.00	Month
+10751	8004	4	1	3	1	90	1/19/2010	General	Bourbeau, Mark	Yes	10.00	Month
+10780	8004	4	1	4	1	80	1/19/2010	General	Bourbeau, Mark	Yes	10.00	Month
+10796	8004	4	1	4	6	10	1/19/2010	Forward in Faith	Bourbeau, Mark	Yes	10.00	Month
+10814	8004	4	2	1	1	70	1/19/2010	General	Bourbeau, Mark	Yes	10.00	Month
+10884	8004	4	2	3	1	150	1/19/2010	General	Bourbeau, Mark	Yes	10.00	Month
+10910	8004	4	2	4	1	75.	1/19/2010	General	Bourbeau, Mark	Yes	10.00	Month
+10911	8004	4	2	4	6	10	1/19/2010	Forward in Faith	Bourbeau, Mark	Yes	10.00	Month
+11002	8004	4	3	1	1	75	1/19/2010	General	Bourbeau, Mark	Yes	10.00	Month
+11068	8004	4	3	3	1	90	1/19/2010	General	Bourbeau, Mark	Yes	10.00	Month
+11097	8004	4	3	4	1	70	1/19/2010	General	Bourbeau, Mark	Yes	10.00	Month
+9519	8005	1	1	1	1	29	1/4/2009	General	Breen, Joann	Yes		
+9560	8005	1	1	4	1	20	7/26/2009	General	Breen, Joann	Yes	15	Month
+9643	8005	1	2	3	1	20	7/26/2009	General	Breen, Joann	Yes	15	Month
+9712	8005	1	2	3	1	20.00	1/18/2010	General	Breen, Joann	Yes	15	Month
+9655	8005	1	2	4	1	10	7/26/2009	General	Breen, Joann	Yes	15	Month
+9724	8005	1	2	4	1	10.00	1/18/2010	General	Breen, Joann	Yes	15	Month
+9762	8005	1	3	1	1	10.00	1/18/2010	General	Breen, Joann	Yes	15	Month
+9775	8005	1	3	2	1	10.00	1/18/2010	General	Breen, Joann	Yes	15	Month
+9808	8005	1	3	3	1	20.00	1/18/2010	General	Breen, Joann	Yes	15	Month
+9843	8005	1	3	5	1	20.00	1/18/2010	General	Breen, Joann	Yes	15	Month
+9909	8005	2	1	2	1	20.00	1/18/2010	General	Breen, Joann	Yes	15	Month
+9967	8005	2	1	4	1	7.00	1/18/2010	General	Breen, Joann	Yes	15	Month
+10014	8005	2	2	1	1	10.00	1/18/2010	General	Breen, Joann	Yes	15	Month
+10085	8005	2	2	4	1	20.00	1/18/2010	General	Breen, Joann	Yes	15	Month
+10169	8005	2	3	2	1	17.75	1/19/2010	General	Breen, Joann	Yes	15	Month
+10209	8005	2	3	3	1	10.00	1/19/2010	General	Breen, Joann	Yes	15	Month
+10210	8005	2	3	3	6	15.00	1/19/2010	Forward in Faith	Breen, Joann	Yes	15	Month
+10226	8005	2	3	4	1	10.00	1/19/2010	General	Breen, Joann	Yes	15	Month
+10284	8005	3	1	1	1	10.00	1/19/2010	General	Breen, Joann	Yes	15	Month
+10289	8005	3	1	1 	6	15.00	1/19/2010	Forward in Faith	Breen, Joann	Yes	15	Month
+10311	8005	3	1	2	1	10.00	1/19/2010	General	Breen, Joann	Yes	15	Month
+10358	8005	3	1	4	1	10.00	1/19/2010	General	Breen, Joann	Yes	15	Month
+10387	8005	3	2	1	1	5.00	1/19/2010	General	Breen, Joann	Yes	15	Month
+10452	8005	3	2	2	1	6.00	1/19/2010	General	Breen, Joann	Yes	15	Month
+10444	8005	3	2	2	6	15.00	1/19/2010	Forward in Faith	Breen, Joann	Yes	15	Month
+10533	8005	3	2	5	1	10.	1/19/2010	General	Breen, Joann	Yes	15	Month
+10543	8005	3	3	1	1	5	1/19/2010	General	Breen, Joann	Yes	15	Month
+10636	8005	3	3	4	1	15.	1/19/2010	General	Breen, Joann	Yes	15	Month
+10723	8005	4	1	2	1	14.	1/19/2010	General	Breen, Joann	Yes	15	Month
+10698	8005	4	1	2	6	15.	1/19/2010	Forward in Faith	Breen, Joann	Yes	15	Month
+10789	8005	4	1	4	1	10	1/19/2010	General	Breen, Joann	Yes	15	Month
+10865	8005	4	2	2	6	15	1/19/2010	Forward in Faith	Breen, Joann	Yes	15	Month
+10869	8005	4	2	3	1	4	1/19/2010	General	Breen, Joann	Yes	15	Month
+10898	8005	4	2	3	1	7.75	1/19/2010	General	Breen, Joann	Yes	15	Month
+9507	8006	1	1	1	2	100	1/4/2009	Lottie Moon	Briggs, James	Yes		
+9541	8006	1	1	2	1	230.00	7/26/2009	General	Briggs, James	Yes	150	Month
+9586	8006	1	1	4	1	230	7/26/2009	General	Briggs, James	Yes	150	Month
+9612	8006	1	2	2	1	230	7/26/2009	General	Briggs, James	Yes	150	Month
+9659	8006	1	2	4	1	230	7/26/2009	General	Briggs, James	Yes	150	Month
+9788	8006	1	3	2	1	230.00	1/18/2010	General	Briggs, James	Yes	150	Month
+9801	8006	1	3	3	1	66.00	1/18/2010	General	Briggs, James	Yes	150	Month
+9826	8006	1	3	4	1	470.00	1/18/2010	General	Briggs, James	Yes	150	Month
+9871	8006	2	1	1	1	230.00	1/18/2010	General	Briggs, James	Yes	150	Month
+9959	8006	2	1	3	1	230.00	1/18/2010	General	Briggs, James	Yes	150	Month
+9965	8006	2	1	4	1	250.00	1/18/2010	General	Briggs, James	Yes	150	Month
+10013	8006	2	2	1	1	230.00	1/18/2010	General	Briggs, James	Yes	150	Month
+10072	8006	2	2	3	1	230.00	1/18/2010	General	Briggs, James	Yes	150	Month
+10129	8006	2	2	5	1	230.00	1/18/2010	General	Briggs, James	Yes	150	Month
+10161	8006	2	3	2	1	250.00	1/19/2010	General	Briggs, James	Yes	150	Month
+10162	8006	2	3	2	44	150.00	1/19/2010	Youth	Briggs, James	Yes	150	Month
+10248	8006	2	3	4	1	250.00	1/19/2010	General	Briggs, James	Yes	150	Month
+10247	8006	2	3	4	6	150.00	1/19/2010	Forward in Faith	Briggs, James	Yes	150	Month
+10332	8006	3	1	2	1	250.00	1/19/2010	General	Briggs, James	Yes	150	Month
+10362	8006	3	1	4	1	250.00	1/19/2010	General	Briggs, James	Yes	150	Month
+10363	8006	3	1	4	6	150.00	1/19/2010	Forward in Faith	Briggs, James	Yes	150	Month
+10441	8006	3	2	2	1	260.00	1/19/2010	General	Briggs, James	Yes	150	Month
+10504	8006	3	2	4	1	260.00	1/19/2010	General	Briggs, James	Yes	150	Month
+10505	8006	3	2	4	6	150.00	1/19/2010	Forward in Faith	Briggs, James	Yes	150	Month
+10551	8006	3	3	1	1	260.	1/19/2010	General	Briggs, James	Yes	150	Month
+10605	8006	3	3	3	1	310	1/19/2010	General	Briggs, James	Yes	150	Month
+10668	8006	4	1	1	1	260	1/19/2010	General	Briggs, James	Yes	150	Month
+9505	8007	1	1	1	1	100	1/4/2009	General	Bulluck, Tom	Yes		
+9548	8007	1	1	3	1	150.	7/26/2009	General	Bulluck, Tom	Yes	40	Week
+9650	8007	1	2	3	1	200	7/26/2009	General	Bulluck, Tom	Yes	40	Week
+9665	8007	1	2	4	5	15	7/26/2009	Benevolence	Bulluck, Tom	Yes	40	Week
+9734	8007	1	2	4	5	15.00	1/18/2010	Benevolence	Bulluck, Tom	Yes	40	Week
+9810	8007	1	3	3	1	200.00	1/18/2010	General	Bulluck, Tom	Yes	40	Week
+9867	8007	2	1	1	1	200.00	1/18/2010	General	Bulluck, Tom	Yes	40	Week
+9902	8007	2	1	1	5	20.00	1/18/2010	Benevolence	Bulluck, Tom	Yes	40	Week
+10010	8007	2	2	1	1	200.00	1/18/2010	General	Bulluck, Tom	Yes	40	Week
+10083	8007	2	2	4	1	200.00	1/18/2010	General	Bulluck, Tom	Yes	40	Week
+10148	8007	2	3	1	1	200.00	1/18/2010	General	Bulluck, Tom	Yes	40	Week
+10198	8007	2	3	3	1	200.00	1/19/2010	General	Bulluck, Tom	Yes	40	Week
+10290	8007	3	1	1	1	200.00	1/19/2010	General	Bulluck, Tom	Yes	40	Week
+10384	8007	3	2	1	1	100.00	1/19/2010	General	Bulluck, Tom	Yes	40	Week
+10386	8007	3	2	1	44	230.00	1/19/2010	Youth	Bulluck, Tom	Yes	40	Week
+10385	8007	3	2	1	6	40.00	1/19/2010	Forward in Faith	Bulluck, Tom	Yes	40	Week
+10531	8007	3	2	5	1	200	1/19/2010	General	Bulluck, Tom	Yes	40	Week
+10532	8007	3	2	5	6	80	1/19/2010	Forward in Faith	Bulluck, Tom	Yes	40	Week
+10637	8007	3	3	4	1	200.	1/19/2010	General	Bulluck, Tom	Yes	40	Week
+10638	8007	3	3	4	6	40	1/19/2010	Forward in Faith	Bulluck, Tom	Yes	40	Week
+10722	8007	4	1	2	6	40	1/19/2010	Forward in Faith	Bulluck, Tom	Yes	40	Week
+10790	8007	4	1	4	1	150	1/19/2010	General	Bulluck, Tom	Yes	40	Week
+10791	8007	4	1	4	6	40	1/19/2010	Forward in Faith	Bulluck, Tom	Yes	40	Week
+10845	8007	4	2	2	1	100	1/19/2010	General	Bulluck, Tom	Yes	40	Week
+10844	8007	4	2	2	6	40	1/19/2010	Forward in Faith	Bulluck, Tom	Yes	40	Week
+10914	8007	4	2	4	1	150	1/19/2010	General	Bulluck, Tom	Yes	40	Week
+10915	8007	4	2	4	6	40	1/19/2010	Forward in Faith	Bulluck, Tom	Yes	40	Week
+10969	8007	4	2	5	6	40	1/19/2010	Forward in Faith	Bulluck, Tom	Yes	40	Week
+11037	8007	4	3	2	1	200	1/19/2010	General	Bulluck, Tom	Yes	40	Week
+9525	8008	1	1	1	1	175	1/4/2009	General	Carlin, Charles	Yes		
+9557	8008	1	1	3	1	175.	7/26/2009	General	Carlin, Charles	Yes	230	Month
+9599	8008	1	2	1	1	175	7/26/2009	General	Carlin, Charles	Yes	230	Month
+9714	8008	1	2	3	1	175.00	1/18/2010	General	Carlin, Charles	Yes	230	Month
+11113	8008	1	2	4	5	25	1/19/2010	Benevolence	Carlin, Charles	Yes	230	Month
+9758	8008	1	3	1	1	175.00	1/18/2010	General	Carlin, Charles	Yes	230	Month
+9844	8008	1	3	5	1	350.00	1/18/2010	General	Carlin, Charles	Yes	230	Month
+9845	8008	1	3	5	3	100.00	1/18/2010	Annie Armstrong	Carlin, Charles	Yes	230	Month
+9957	8008	2	1	3	1	175.00	1/18/2010	General	Carlin, Charles	Yes	230	Month
+9968	8008	2	1	4	1	175.00	1/18/2010	General	Carlin, Charles	Yes	230	Month
+10043	8008	2	2	2	1	175.00	1/18/2010	General	Carlin, Charles	Yes	230	Month
+10082	8008	2	2	4	1	175.00	1/18/2010	General	Carlin, Charles	Yes	230	Month
+10135	8008	2	3	1	1	175.00	1/18/2010	General	Carlin, Charles	Yes	230	Month
+10211	8008	2	3	3	1	175.00	1/19/2010	General	Carlin, Charles	Yes	230	Month
+11119	8008	3	1	1	1	175	1/19/2010	General	Carlin, Charles	Yes	230	Month
+9685	8008	3	1	1	1	175	8/17/2009	General	Carlin, Charles	Yes	230	Month
+11120	8008	3	1	1	6	106	1/19/2010	Forward in Faith	Carlin, Charles	Yes	230	Month
+9684	8008	3	1	1	6	106	8/17/2009	Forward in Faith	Carlin, Charles	Yes	230	Month
+10342	8008	3	1	3	1	175.00	1/19/2010	General	Carlin, Charles	Yes	230	Month
+11121	8008	3	1	3	1	650	1/19/2010	General	Carlin, Charles	Yes	230	Month
+10343	8008	3	1	3	6	106.00	1/19/2010	Forward in Faith	Carlin, Charles	Yes	230	Month
+10429	8008	3	2	2	1	175.00	1/19/2010	General	Carlin, Charles	Yes	230	Month
+10430	8008	3	2	2	6	106.00	1/19/2010	Forward in Faith	Carlin, Charles	Yes	230	Month
+10479	8008	3	2	3	1	175.00	1/19/2010	General	Carlin, Charles	Yes	230	Month
+10480	8008	3	2	3	6	106.00	1/19/2010	Forward in Faith	Carlin, Charles	Yes	230	Month
+10546	8008	3	3	1	1	175.00	1/19/2010	General	Carlin, Charles	Yes	230	Month
+10547	8008	3	3	1	6	106.00	1/19/2010	Forward in Faith	Carlin, Charles	Yes	230	Month
+10587	8008	3	3	2	1	175.	1/19/2010	General	Carlin, Charles	Yes	230	Month
+10588	8008	3	3	2	6	106	1/19/2010	Forward in Faith	Carlin, Charles	Yes	230	Month
+10635	8008	3	3	4	1	175.	1/19/2010	General	Carlin, Charles	Yes	230	Month
+10634	8008	3	3	4	6	106.	1/19/2010	Forward in Faith	Carlin, Charles	Yes	230	Month
+10724	8008	4	1	2	1	175	1/19/2010	General	Carlin, Charles	Yes	230	Month
+10725	8008	4	1	2	6	106	1/19/2010	Forward in Faith	Carlin, Charles	Yes	230	Month
+10786	8008	4	1	4	1	175	1/19/2010	General	Carlin, Charles	Yes	230	Month
+10787	8008	4	1	4	6	106	1/19/2010	Forward in Faith	Carlin, Charles	Yes	230	Month
+10788	8008	4	1	4	67	100	1/19/2010	Ali	Carlin, Charles	Yes	230	Month
+10842	8008	4	2	2	1	175	1/19/2010	General	Carlin, Charles	Yes	230	Month
+10843	8008	4	2	2	6	106.	1/19/2010	Forward in Faith	Carlin, Charles	Yes	230	Month
+10917	8008	4	2	4	1	81	1/19/2010	General	Carlin, Charles	Yes	230	Month
+10916	8008	4	2	4	6	115.	1/19/2010	Forward in Faith	Carlin, Charles	Yes	230	Month
+10941	8008	4	2	5	1	173.	1/19/2010	General	Carlin, Charles	Yes	230	Month
+10942	8008	4	2	5	6	115	1/19/2010	Forward in Faith	Carlin, Charles	Yes	230	Month
+10979	8008	4	3	1	1	173	1/19/2010	General	Carlin, Charles	Yes	230	Month
+10977	8008	4	3	1	2	100	1/19/2010	Lottie Moon	Carlin, Charles	Yes	230	Month
+10978	8008	4	3	1	6	115	1/19/2010	Forward in Faith	Carlin, Charles	Yes	230	Month
+11035	8008	4	3	2	1	81.00	1/19/2010	General	Carlin, Charles	Yes	230	Month
+11036	8008	4	3	2	6	115	1/19/2010	Forward in Faith	Carlin, Charles	Yes	230	Month
+9739	8011	1	2	4	1	362.00	1/18/2010	General	Davis, John	Yes	3000	Total
+10649	8011	3	3	4	6	250	1/19/2010	Forward in Faith	Davis, John	Yes		
+9512	8012	1	1	1	1	362	1/4/2009	General	Dempsey, James	Yes		
+9549	8012	1	1	3	1	362.	7/26/2009	General	Dempsey, James	Yes	850	Month
+9550	8012	1	1	3	1	362.	7/26/2009	General	Dempsey, James	Yes	850	Month
+9571	8012	1	1	4	1	362	7/26/2009	General	Dempsey, James	Yes	850	Month
+9606	8012	1	2	1	1	362	7/26/2009	General	Dempsey, James	Yes	850	Month
+9617	8012	1	2	2	1	362	7/26/2009	General	Dempsey, James	Yes	850	Month
+9694	8012	1	2	2	19	20.00	8/17/2009	Love Offering	Dempsey, James	Yes	850	Month
+9697	8012	1	2	3	1	362.00	1/18/2010	General	Dempsey, James	Yes	Month	Month
+9670	8012	1	2	4	1	362	7/26/2009	General	Dempsey, James	Yes	850	Month
+9748	8012	1	2	4	5	40.00	1/18/2010	Benevolence	Dempsey, James	Yes	Month	Month
+9759	8012	1	3	1	1	362.00	1/18/2010	General	Dempsey, James	Yes	Month	Month
+9782	8012	1	3	2	1	362.00	1/18/2010	General	Dempsey, James	Yes	Month	Month
+9816	8012	1	3	3	1	362.00	1/18/2010	General	Dempsey, James	Yes	Month	Month
+9831	8012	1	3	4	1	362.00	1/18/2010	General	Dempsey, James	Yes	Month	Month
+9899	8012	2	1	1	1	724.00	1/18/2010	General	Dempsey, James	Yes	Month	Month
+9898	8012	2	1	1	5	100.00	1/18/2010	Benevolence	Dempsey, James	Yes	Month	Month
+9960	8012	2	1	3	1	362.00	1/18/2010	General	Dempsey, James	Yes	Month	Month
+9961	8012	2	1	3	1	362.00	1/18/2010	General	Dempsey, James	Yes	Month	Month
+9966	8012	2	1	4	1	362.00	1/18/2010	General	Dempsey, James	Yes	Month	Month
+10011	8012	2	2	1	1	362.00	1/18/2010	General	Dempsey, James	Yes	Month	Month
+10012	8012	2	2	1	6	1000.00	1/18/2010	Forward in Faith	Dempsey, James	Yes	Month	Month
+10044	8012	2	2	2	1	362.00	1/18/2010	General	Dempsey, James	Yes	Month	Month
+10053	8012	2	2	3	1	362.00	1/18/2010	General	Dempsey, James	Yes	Month	Month
+10054	8012	2	2	3	5	100.00	1/18/2010	Benevolence	Dempsey, James	Yes	Month	Month
+10096	8012	2	2	4	1	362.00	1/18/2010	General	Dempsey, James	Yes	Month	Month
+10130	8012	2	2	5	1	362.00	1/18/2010	General	Dempsey, James	Yes	Month	Month
+10134	8012	2	3	1	1	362.00	1/18/2010	General	Dempsey, James	Yes	Month	Month
+10206	8012	2	3	3	1	362.00	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10208	8012	2	3	3	1	362.00	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10207	8012	2	3	3	44	50.00	1/19/2010	Youth	Dempsey, James	Yes	Month	Month
+10245	8012	2	3	4	1	362.00	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10246	8012	2	3	4	6	850.00	1/19/2010	Forward in Faith	Dempsey, James	Yes	Month	Month
+10283	8012	3	1	1	1	362.00	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10307	8012	3	1	2	1	362.00	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10350	8012	3	1	3	1	362.00	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10365	8012	3	1	4	1	362.00	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10364	8012	3	1	4	6	850.00	1/19/2010	Forward in Faith	Dempsey, James	Yes	Month	Month
+10383	8012	3	2	1	1	362.00	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10464	8012	3	2	3	1	724.00	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10503	8012	3	2	4	1	362.00	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10528	8012	3	2	5	1	362.00	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10529	8012	3	2	5	6	850.00	1/19/2010	Forward in Faith	Dempsey, James	Yes	Month	Month
+10542	8012	3	3	1	1	362.	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10582	8012	3	3	2	1	362.	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10604	8012	3	3	3	1	362.	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10652	8012	3	3	4	1	362	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10653	8012	3	3	4	6	850	1/19/2010	Forward in Faith	Dempsey, James	Yes	Month	Month
+10663	8012	4	1	1	1	362.	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10720	8012	4	1	2	1	362.	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10754	8012	4	1	3	1	362	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10793	8012	4	1	4	1	362	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10794	8012	4	1	4	6	850	1/19/2010	Forward in Faith	Dempsey, James	Yes	Month	Month
+10792	8012	4	1	4	62	100	1/19/2010	Ukraine Trip	Dempsey, James	Yes	Month	Month
+10815	8012	4	2	1	1	362	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10846	8012	4	2	2	1	362.	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10889	8012	4	2	3	1	362.	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10955	8012	4	2	5	1	362.	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10985	8012	4	3	1	1	362	1/19/2010	General	Dempsey, James	Yes	Month	Month
+10984	8012	4	3	1	6	850	1/19/2010	Forward in Faith	Dempsey, James	Yes	Month	Month
+11039	8012	4	3	2	1	362	1/19/2010	General	Dempsey, James	Yes	Month	Month
+11040	8012	4	3	2	6	850	1/19/2010	Forward in Faith	Dempsey, James	Yes	Month	Month
+11064	8012	4	3	3	1	362	1/19/2010	General	Dempsey, James	Yes	Month	Month
+11065	8012	4	3	3	1	362.00	1/19/2010	General	Dempsey, James	Yes	Month	Month
+11066	8012	4	3	3	7	13.00	1/19/2010	Hunger	Dempsey, James	Yes	Month	Month
+11098	8012	4	3	4	1	362	1/19/2010	General	Dempsey, James	Yes	Month	Month
+9540	8013	1	1	2	1	150.00	7/26/2009	General	Desrosiers, Anne	Yes	100	Month
+9543	8013	1	1	2	2	100.00	7/26/2009	Lottie Moon	Desrosiers, Anne	Yes	100	Month
+9570	8013	1	1	4	1	150	7/26/2009	General	Desrosiers, Anne	Yes	100	Month
+9611	8013	1	2	2	1	150	7/26/2009	General	Desrosiers, Anne	Yes	100	Month
+9731	8013	1	2	4	1	200.00	1/18/2010	General	Desrosiers, Anne	Yes	100	Month
+9781	8013	1	3	2	1	150.00	1/18/2010	General	Desrosiers, Anne	Yes	100	Month
+9825	8013	1	3	4	1	200.00	1/18/2010	General	Desrosiers, Anne	Yes	100	Month
+9870	8013	2	1	1	1	150.00	1/18/2010	General	Desrosiers, Anne	Yes	100	Month
+9935	8013	2	1	3	1	150.00	1/18/2010	General	Desrosiers, Anne	Yes	100	Month
+10004	8013	2	2	1	1	150.00	1/18/2010	General	Desrosiers, Anne	Yes	100	Month
+9991	8013	2	2	1	6	1000.00	1/18/2010	Forward in Faith	Desrosiers, Anne	Yes	100	Month
+10120	8013	2	2	5	1	150.00	1/18/2010	General	Desrosiers, Anne	Yes	100	Month
+10121	8013	2	2	5	1	150.00	1/18/2010	General	Desrosiers, Anne	Yes	100	Month
+10163	8013	2	3	2	1	150.00	1/19/2010	General	Desrosiers, Anne	Yes	100	Month
+10266	8013	3	1	1	1	150.00	1/19/2010	General	Desrosiers, Anne	Yes	100	Month
+10267	8013	3	1	1	6	100.00	1/19/2010	Forward in Faith	Desrosiers, Anne	Yes	100	Month
+10345	8013	3	1	3	1	150.00	1/19/2010	General	Desrosiers, Anne	Yes	100	Month
+10344	8013	3	1	3	6	100.00	1/19/2010	Forward in Faith	Desrosiers, Anne	Yes	100	Month
+10376	8013	3	1	4	1	150.00	1/19/2010	General	Desrosiers, Anne	Yes	100	Month
+10451	8013	3	2	2	1	150.00	1/19/2010	General	Desrosiers, Anne	Yes	100	Month
+10450	8013	3	2	2	6	100.00	1/19/2010	Forward in Faith	Desrosiers, Anne	Yes	100	Month
+10500	8013	3	2	4	1	150.00	1/19/2010	General	Desrosiers, Anne	Yes	100	Month
+10568	8013	3	3	1	1	150.	1/19/2010	General	Desrosiers, Anne	Yes	100	Month
+10569	8013	3	3	1	6	100.	1/19/2010	Forward in Faith	Desrosiers, Anne	Yes	100	Month
+10617	8013	3	3	3	1	150	1/19/2010	General	Desrosiers, Anne	Yes	100	Month
+10669	8013	4	1	1	1	150	1/19/2010	General	Desrosiers, Anne	Yes	100	Month
+10670	8013	4	1	1	6	100	1/19/2010	Forward in Faith	Desrosiers, Anne	Yes	100	Month
+10671	8013	4	1	1	62	50	1/19/2010	Ukraine Trip	Desrosiers, Anne	Yes	100	Month
+10735	8013	4	1	3	1	150	1/19/2010	General	Desrosiers, Anne	Yes	100	Month
+10736	8013	4	1	3	6	100	1/19/2010	Forward in Faith	Desrosiers, Anne	Yes	100	Month
+10836	8013	4	2	2	1	150	1/19/2010	General	Desrosiers, Anne	Yes	100	Month
+10876	8013	4	2	3	1	150	1/19/2010	General	Desrosiers, Anne	Yes	100	Month
+10877	8013	4	2	3	6	100	1/19/2010	Forward in Faith	Desrosiers, Anne	Yes	100	Month
+11027	8013	4	3	2	1	150	1/19/2010	General	Desrosiers, Anne	Yes	100	Month
+11028	8013	4	3	2	2	100	1/19/2010	Lottie Moon	Desrosiers, Anne	Yes	100	Month
+11026	8013	4	3	2	6	100	1/19/2010	Forward in Faith	Desrosiers, Anne	Yes	100	Month
+11082	8013	4	3	4	1	150	1/19/2010	General	Desrosiers, Anne	Yes	100	Month
+9538	8014	1	1	2	1	200.00	7/26/2009	General	Duncan, Les	Yes	250	Month
+9537	8014	1	1	2	6	5	7/26/2009	Forward in Faith	Duncan, Les	Yes	250	Month
+9547	8014	1	1	3	1	125.	7/26/2009	General	Duncan, Les	Yes	250	Month
+9590	8014	1	2	1	1	150	7/26/2009	General	Duncan, Les	Yes	250	Month
+9589	8014	1	2	1	6	50	7/26/2009	Forward in Faith	Duncan, Les	Yes	250	Month
+9704	8014	1	2	3	1	150.00	1/18/2010	General	Duncan, Les	Yes	250	Month
+9705	8014	1	2	3	6	50.00	1/18/2010	Forward in Faith	Duncan, Les	Yes	250	Month
+9790	8014	1	3	2	1	200.00	1/18/2010	General	Duncan, Les	Yes	250	Month
+9791	8014	1	3	2	6	50.00	1/18/2010	Forward in Faith	Duncan, Les	Yes	250	Month
+9819	8014	1	3	3	1	210.00	1/18/2010	General	Duncan, Les	Yes	250	Month
+9820	8014	1	3	3	6	50.00	1/18/2010	Forward in Faith	Duncan, Les	Yes	250	Month
+9847	8014	1	3	5	1	212.00	1/18/2010	General	Duncan, Les	Yes	250	Month
+9848	8014	1	3	5	6	50.00	1/18/2010	Forward in Faith	Duncan, Les	Yes	250	Month
+9941	8014	2	1	3	1	400.00	1/18/2010	General	Duncan, Les	Yes	250	Month
+9942	8014	2	1	3	6	200.00	1/18/2010	Forward in Faith	Duncan, Les	Yes	250	Month
+10020	8014	2	2	2	1	200.00	1/18/2010	General	Duncan, Les	Yes	250	Month
+10019	8014	2	2	2	6	100.00	1/18/2010	Forward in Faith	Duncan, Les	Yes	250	Month
+10100	8014	2	2	4	1	200.00	1/18/2010	General	Duncan, Les	Yes	250	Month
+10101	8014	2	2	4	6	100.00	1/18/2010	Forward in Faith	Duncan, Les	Yes	250	Month
+10141	8014	2	3	1	1	244.00	1/18/2010	General	Duncan, Les	Yes	250	Month
+10142	8014	2	3	1	6	100.00	1/18/2010	Forward in Faith	Duncan, Les	Yes	250	Month
+10199	8014	2	3	3	1	235.00	1/19/2010	General	Duncan, Les	Yes	250	Month
+10216	8014	2	3	3	44	25.00	1/19/2010	Youth	Duncan, Les	Yes	250	Month
+10200	8014	2	3	3	6	125.00	1/19/2010	Forward in Faith	Duncan, Les	Yes	250	Month
+10320	8014	3	1	2	1	200.00	1/19/2010	General	Duncan, Les	Yes	250	Month
+10319	8014	3	1	2	6	125.00	1/19/2010	Forward in Faith	Duncan, Les	Yes	250	Month
+10742	8014	4	1	3	1	75	1/19/2010	General	Duncan, Les	Yes	250	Month
+10743	8014	4	1	3	6	125	1/19/2010	Forward in Faith	Duncan, Les	Yes	250	Month
+10775	8014	4	1	4	1	75	1/19/2010	General	Duncan, Les	Yes	250	Month
+10774	8014	4	1	4	6	125	1/19/2010	Forward in Faith	Duncan, Les	Yes	250	Month
+10939	8014	4	2	4	5	20	1/19/2010	Benevolence	Duncan, Les	Yes	250	Month
+10940	8014	4	2	4	5	20	1/19/2010	Benevolence	Duncan, Les	Yes	250	Month
+11029	8014	4	3	2	1	100	1/19/2010	General	Duncan, Les	Yes	250	Month
+11030	8014	4	3	2	6	125	1/19/2010	Forward in Faith	Duncan, Les	Yes	250	Month
+9573	8015	1	1	4	1	125	7/26/2009	General	Fish, Robert	Yes	10000	Total
+9574	8015	1	1	4	1	125.	7/26/2009	General	Fish, Robert	Yes	10000	Total
+9572	8015	1	1	4	1	137	7/26/2009	General	Fish, Robert	Yes	10000	Total
+9566	8015	1	1	4	1	140	7/26/2009	General	Fish, Robert	Yes	10000	Total
+9601	8015	1	2	1	1	140	7/26/2009	General	Fish, Robert	Yes	10000	Total
+9621	8015	1	2	2	1	140	7/26/2009	General	Fish, Robert	Yes	10000	Total
+9699	8015	1	2	3	1	140..	1/18/2010	General	Fish, Robert	Yes	10000	Total
+9725	8015	1	2	4	14	25.00	1/18/2010	Hostess	Fish, Robert	Yes	10000	Total
+9656	8015	1	2	4	5	25	7/26/2009	Benevolence	Fish, Robert	Yes	10000	Total
+9747	8015	1	2	4	5	25.00	1/18/2010	Benevolence	Fish, Robert	Yes	10000	Total
+9760	8015	1	3	1	1	140.00	1/18/2010	General	Fish, Robert	Yes	10000	Total
+9802	8015	1	3	3	1	140.00	1/18/2010	General	Fish, Robert	Yes	10000	Total
+9804	8015	1	3	3	1	140.00	1/18/2010	General	Fish, Robert	Yes	10000	Total
+9874	8015	2	1	1	1	140.00	1/18/2010	General	Fish, Robert	Yes	10000	Total
+9875	8015	2	1	1	1	140.00	1/18/2010	General	Fish, Robert	Yes	10000	Total
+9922	8015	2	1	2	1	140.00	1/18/2010	General	Fish, Robert	Yes	10000	Total
+9953	8015	2	1	3	1	140.00	1/18/2010	General	Fish, Robert	Yes	10000	Total
+9970	8015	2	1	4	1	140.00	1/18/2010	General	Fish, Robert	Yes	10000	Total
+10036	8015	2	2	2	1	140.00	1/18/2010	General	Fish, Robert	Yes	10000	Total
+10037	8015	2	2	2	1	140.00	1/18/2010	General	Fish, Robert	Yes	10000	Total
+10116	8015	2	2	5	1	140.00	1/18/2010	General	Fish, Robert	Yes	10000	Total
+10117	8015	2	2	5	1	140.00	1/18/2010	General	Fish, Robert	Yes	10000	Total
+10118	8015	2	2	5	1	140.00	1/18/2010	General	Fish, Robert	Yes	10000	Total
+10187	8015	2	3	3	1	140.00	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10191	8015	2	3	3	1	140.00	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10192	8015	2	3	3	1	140.00	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10334	8015	3	1	3	1	140.00	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10335	8015	3	1	3	1	140.00	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10360	8015	3	1	4	1	140.00	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10361	8015	3	1	4	1	140.00	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10379	8015	3	1	4	5	25.00	1/19/2010	Benevolence	Fish, Robert	Yes	10000	Total
+10447	8015	3	2	2	1	140.00	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10448	8015	3	2	2	1	140.00	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10449	8015	3	2	2	6	1000.00	1/19/2010	Forward in Faith	Fish, Robert	Yes	10000	Total
+10567	8015	3	3	1	1	140.	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10574	8015	3	3	1	1	140.	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10601	8015	3	3	3	1	140	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10602	8015	3	3	3	1	140	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10624	8015	3	3	4	1	140	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10628	8015	3	3	4	1	140	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10694	8015	4	1	1	1	140	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10693	8015	4	1	1	5	25	1/19/2010	Benevolence	Fish, Robert	Yes	10000	Total
+10747	8015	4	1	3	1	140	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10748	8015	4	1	3	1	140	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10810	8015	4	2	1	1	140	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10811	8015	4	2	1	1	140	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10838	8015	4	2	2	1	140	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10867	8015	4	2	3	1	140	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10890	8015	4	2	3	6	1000.00	1/19/2010	Forward in Faith	Fish, Robert	Yes	10000	Total
+10908	8015	4	2	4	1	140	1/19/2010	General	Fish, Robert	Yes	10000	Total
+10934	8015	4	2	4	5	25	1/19/2010	Benevolence	Fish, Robert	Yes	10000	Total
+10951	8015	4	2	5	1	140	1/19/2010	General	Fish, Robert	Yes	10000	Total
+11033	8015	4	3	2	1	140	1/19/2010	General	Fish, Robert	Yes	10000	Total
+11034	8015	4	3	2	1	140	1/19/2010	General	Fish, Robert	Yes	10000	Total
+11083	8015	4	3	4	1	140	1/19/2010	General	Fish, Robert	Yes	10000	Total
+11084	8015	4	3	4	1	140	1/19/2010	General	Fish, Robert	Yes	10000	Total
+9529	8016	1	1	1	1	250	1/4/2009	General	Francis, Roger	Yes		
+9542	8016	1	1	2	1	275.	7/26/2009	General	Francis, Roger	Yes	3500	Year
+9553	8016	1	1	3	1	200.	7/26/2009	General	Francis, Roger	Yes	3500	Year
+9577	8016	1	1	4	1	350	7/26/2009	General	Francis, Roger	Yes	3500	Year
+9593	8016	1	2	1	1	275	7/26/2009	General	Francis, Roger	Yes	3500	Year
+9620	8016	1	2	2	1	275	7/26/2009	General	Francis, Roger	Yes	3500	Year
+9711	8016	1	2	3	1	275.00	1/18/2010	General	Francis, Roger	Yes	3500	Year
+9664	8016	1	2	4	1	275	7/26/2009	General	Francis, Roger	Yes	3500	Year
+9681	8016	1	2	4	5	10.	7/26/2009	Benevolence	Francis, Roger	Yes	3500	Year
+9680	8016	1	2	4	5	25	7/26/2009	Benevolence	Francis, Roger	Yes	3500	Year
+9754	8016	1	3	1	1	275.00	1/18/2010	General	Francis, Roger	Yes	3500	Year
+9786	8016	1	3	2	1	275.00	1/18/2010	General	Francis, Roger	Yes	3500	Year
+9818	8016	1	3	3	1	275.00	1/18/2010	General	Francis, Roger	Yes	3500	Year
+9830	8016	1	3	4	1	275.00	1/18/2010	General	Francis, Roger	Yes	3500	Year
+9846	8016	1	3	5	1	275.00	1/18/2010	General	Francis, Roger	Yes	3500	Year
+9883	8016	2	1	1	1	275.00	1/18/2010	General	Francis, Roger	Yes	3500	Year
+9884	8016	2	1	1	5	25.00	1/18/2010	Benevolence	Francis, Roger	Yes	3500	Year
+9926	8016	2	1	2	1	275.00	1/18/2010	General	Francis, Roger	Yes	3500	Year
+9925	8016	2	1	2	3	70.00	1/18/2010	Annie Armstrong	Francis, Roger	Yes	3500	Year
+9952	8016	2	1	3	1	275.00	1/18/2010	General	Francis, Roger	Yes	3500	Year
+9979	8016	2	1	4	1	250.00	1/18/2010	General	Francis, Roger	Yes	3500	Year
+9980	8016	2	1	4	6	50.00	1/18/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+9996	8016	2	2	1	1	250.00	1/18/2010	General	Francis, Roger	Yes	3500	Year
+9995	8016	2	2	1	6	50.00	1/18/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10017	8016	2	2	2	1	250.00	1/18/2010	General	Francis, Roger	Yes	3500	Year
+10018	8016	2	2	2	6	50.00	1/18/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10067	8016	2	2	3	1	250.00	1/18/2010	General	Francis, Roger	Yes	3500	Year
+10068	8016	2	2	3	6	50.00	1/18/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10106	8016	2	2	4	1	250.00	1/18/2010	General	Francis, Roger	Yes	3500	Year
+10107	8016	2	2	4	6	50.00	1/18/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10159	8016	2	3	1	44	25.00	1/18/2010	Youth	Francis, Roger	Yes	3500	Year
+10179	8016	2	3	2	1	500.00	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10180	8016	2	3	2	6	100.00	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10205	8016	2	3	3	1	500.00	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10204	8016	2	3	3	6	100.00	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10232	8016	2	3	4	1	250.00	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10233	8016	2	3	4	6	50.00	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10270	8016	3	1	1	1	250.00	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10271	8016	3	1	1	6	100.00	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10305	8016	3	1	2	1	250.00	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10306	8016	3	1	2	6	50.00	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10372	8016	3	1	4	1	500.00	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10373	8016	3	1	4	6	100.00	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10394	8016	3	2	1	1	250.00	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10395	8016	3	2	1	6	50.00	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10427	8016	3	2	2	1	252.00	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10426	8016	3	2	2	6	68.00	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10471	8016	3	2	3	1	250.00	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10470	8016	3	2	3	6	70.00	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10489	8016	3	2	4	1	250.00	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10488	8016	3	2	4	6	170.00	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10517	8016	3	2	5	1	250	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10518	8016	3	2	5	6	70	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10560	8016	3	3	1	1	250	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10559	8016	3	3	1	6	70	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10596	8016	3	3	2	1	250	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10597	8016	3	3	2	6	70	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10613	8016	3	3	3	1	250	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10612	8016	3	3	3	6	70	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10651	8016	3	3	4	1	250	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10650	8016	3	3	4	6	70	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10679	8016	4	1	1	1	250	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10682	8016	4	1	1	5	20	1/19/2010	Benevolence	Francis, Roger	Yes	3500	Year
+10680	8016	4	1	1	6	70	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10717	8016	4	1	2	1	250	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10718	8016	4	1	2	6	70	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10760	8016	4	1	3	1	250	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10761	8016	4	1	3	6	70	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10782	8016	4	1	4	1	250	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10783	8016	4	1	4	6	70	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10804	8016	4	2	1	1	255	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10805	8016	4	2	1	6	70	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10858	8016	4	2	2	1	250	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10859	8016	4	2	2	6	75	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10870	8016	4	2	3	1	250	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10871	8016	4	2	3	6	75	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10904	8016	4	2	4	1	250	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10935	8016	4	2	4	5	25	1/19/2010	Benevolence	Francis, Roger	Yes	3500	Year
+10905	8016	4	2	4	6	255	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10949	8016	4	2	5	1	275	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10950	8016	4	2	5	6	70	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+10993	8016	4	3	1	1	255	1/19/2010	General	Francis, Roger	Yes	3500	Year
+10995	8016	4	3	1	2	170	1/19/2010	Lottie Moon	Francis, Roger	Yes	3500	Year
+10994	8016	4	3	1	6	75	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+11014	8016	4	3	2	1	250	1/19/2010	General	Francis, Roger	Yes	3500	Year
+11016	8016	4	3	2	5	75	1/19/2010	Benevolence	Francis, Roger	Yes	3500	Year
+11015	8016	4	3	2	6	75	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+11055	8016	4	3	3	1	250	1/19/2010	General	Francis, Roger	Yes	3500	Year
+11056	8016	4	3	3	6	75	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+11089	8016	4	3	4	1	250	1/19/2010	General	Francis, Roger	Yes	3500	Year
+11090	8016	4	3	4	6	75	1/19/2010	Forward in Faith	Francis, Roger	Yes	3500	Year
+9522	8017	1	1	1	1	300	1/4/2009	General	Garrity, Moe and Beverly	Yes	200	Week
+9535	8017	1	1	1	5	100	1/4/2009	Benevolence	Garrity, Moe and Beverly	Yes		
+9567	8017	1	1	4	1	900.	7/26/2009	General	Garrity, Moe and Beverly	Yes	200	Week
+9605	8017	1	2	1	1	300	7/26/2009	General	Garrity, Moe and Beverly	Yes	200	Week
+9614	8017	1	2	2	1	300	7/26/2009	General	Garrity, Moe and Beverly	Yes	200	Week
+9716	8017	1	2	3	1	600.00	1/18/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+9778	8017	1	3	2	1	600.00	1/18/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+9805	8017	1	3	3	1	300.00	1/18/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+9828	8017	1	3	4	1	300.00	1/18/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+9849	8017	1	3	5	1	300.00	1/18/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+9877	8017	2	1	1	1	300.00	1/18/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+9910	8017	2	1	2	1	300.00	1/18/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+9911	8017	2	1	2	3	325.00	1/18/2010	Annie Armstrong	Garrity, Moe and Beverly	Yes	200	Week
+9955	8017	2	1	3	1	300.00	1/18/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+9985	8017	2	1	4	1	300.00	1/18/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+9986	8017	2	1	4	6	2500.00	1/18/2010	Forward in Faith	Garrity, Moe and Beverly	Yes	200	Week
+10008	8017	2	2	1	1	300.00	1/18/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10038	8017	2	2	2	1	300.00	1/18/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10074	8017	2	2	3	1	300.00	1/18/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10069	8017	2	2	3	5	100.00	1/18/2010	Benevolence	Garrity, Moe and Beverly	Yes	200	Week
+10084	8017	2	2	4	1	300.00	1/18/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10111	8017	2	2	5	1	300.00	1/18/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10140	8017	2	3	1	1	300.00	1/18/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10174	8017	2	3	2	1	600.00	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10175	8017	2	3	2	44	300.00	1/19/2010	Youth	Garrity, Moe and Beverly	Yes	200	Week
+10238	8017	2	3	4	1	300.00	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10257	8017	3	1	1	1	300.00	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10258	8017	3	1	1	6	2400.00	1/19/2010	Forward in Faith	Garrity, Moe and Beverly	Yes	200	Week
+10326	8017	3	1	2	1	300.00	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10325	8017	3	1	2	6	3000.00	1/19/2010	Forward in Faith	Garrity, Moe and Beverly	Yes	200	Week
+10346	8017	3	1	3	1	300.00	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10348	8017	3	1	3	5	200.00	1/19/2010	Benevolence	Garrity, Moe and Beverly	Yes	200	Week
+10347	8017	3	1	3	6	1800.00	1/19/2010	Forward in Faith	Garrity, Moe and Beverly	Yes	200	Week
+10408	8017	3	2	1	1	600.00	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10407	8017	3	2	1	6	600.00	1/19/2010	Forward in Faith	Garrity, Moe and Beverly	Yes	200	Week
+10440	8017	3	2	2	1	300.00	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10474	8017	3	2	3	1	300.00	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10496	8017	3	2	4	1	300.00	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10509	8017	3	2	4	5	100.00	1/19/2010	Benevolence	Garrity, Moe and Beverly	Yes	200	Week
+10530	8017	3	2	5	1	300.	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10549	8017	3	3	1	1	900.00	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10629	8017	3	3	4	1	300.	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10695	8017	4	1	1	1	300	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10727	8017	4	1	2	1	300	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10746	8017	4	1	3	1	300	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10781	8017	4	1	4	1	300	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10809	8017	4	2	1	1	300	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10839	8017	4	2	2	1	300	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10868	8017	4	2	3	1	300	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10907	8017	4	2	4	1	300	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10938	8017	4	2	4	5	50	1/19/2010	Benevolence	Garrity, Moe and Beverly	Yes	200	Week
+10947	8017	4	2	5	1	300	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+10948	8017	4	2	5	18	650	1/19/2010	Building Repairs	Garrity, Moe and Beverly	Yes	200	Week
+11000	8017	4	3	1	1	300	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+11031	8017	4	3	2	1	300	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+11032	8017	4	3	2	2	555	1/19/2010	Lottie Moon	Garrity, Moe and Beverly	Yes	200	Week
+11060	8017	4	3	3	1	300	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+11077	8017	4	3	4	1	750	1/19/2010	General	Garrity, Moe and Beverly	Yes	200	Week
+11078	8017	4	3	4	6	1250.00	1/19/2010	Forward in Faith	Garrity, Moe and Beverly	Yes	200	Week
+9506	8018	1	1	1	1	100	1/4/2009	General	Gili, Paul	Yes		
+9565	8018	1	1	4	1	125	7/26/2009	General	Gili, Paul	Yes	0	Total
+9764	8018	1	3	1	1	125.00	1/18/2010	General	Gili, Paul	Yes	0	Total
+9829	8018	1	3	4	1	125.00	1/18/2010	General	Gili, Paul	Yes	0	Total
+9850	8018	1	3	5	1	125.00	1/18/2010	General	Gili, Paul	Yes	0	Total
+9869	8018	2	1	1	1	150.00	1/18/2010	General	Gili, Paul	Yes	0	Total
+10416	8018	3	2	1	1	600.00	1/19/2010	General	Gili, Paul	Yes	0	Total
+10421	8018	3	2	2	1	300.00	1/19/2010	General	Gili, Paul	Yes	0	Total
+10909	8018	4	2	4	1	200	1/19/2010	General	Gili, Paul	Yes	0	Total
+10936	8018	4	2	4	5	20	1/19/2010	Benevolence	Gili, Paul	Yes	0	Total
+9532	8019	1	1	1	1	116	1/4/2009	General	Godin, Norma	Yes		
+9534	8019	1	1	1	5	5	1/4/2009	Benevolence	Godin, Norma	Yes		
+9579	8019	1	1	4	1	200	7/26/2009	General	Godin, Norma	Yes	25	Month
+9580	8019	1	1	4	6	166	7/26/2009	Forward in Faith	Godin, Norma	Yes	25	Month
+9709	8019	1	2	3	1	175.00	1/18/2010	General	Godin, Norma	Yes	25	Month
+9789	8019	1	3	2	1	145.00	1/18/2010	General	Godin, Norma	Yes	25	Month
+9799	8019	1	3	3	3	20.00	1/18/2010	Annie Armstrong	Godin, Norma	Yes	25	Month
+9889	8019	2	1	1	1	125.00	1/18/2010	General	Godin, Norma	Yes	25	Month
+10024	8019	2	2	2	1	145.00	1/18/2010	General	Godin, Norma	Yes	25	Month
+10150	8019	2	3	1	1	182.00	1/18/2010	General	Godin, Norma	Yes	25	Month
+10274	8019	3	1	1	1	158.00	1/19/2010	General	Godin, Norma	Yes	25	Month
+10275	8019	3	1	1	6	25.00	1/19/2010	Forward in Faith	Godin, Norma	Yes	25	Month
+10494	8019	3	2	4	1	158.00	1/19/2010	General	Godin, Norma	Yes	25	Month
+10493	8019	3	2	4	6	25.00	1/19/2010	Forward in Faith	Godin, Norma	Yes	25	Month
+10557	8019	3	3	1	1	179.	1/19/2010	General	Godin, Norma	Yes	25	Month
+10558	8019	3	3	1	6	25.	1/19/2010	Forward in Faith	Godin, Norma	Yes	25	Month
+10676	8019	4	1	1	1	158	1/19/2010	General	Godin, Norma	Yes	25	Month
+10677	8019	4	1	1	6	25	1/19/2010	Forward in Faith	Godin, Norma	Yes	25	Month
+10854	8019	4	2	2	1	206	1/19/2010	General	Godin, Norma	Yes	25	Month
+10855	8019	4	2	2	6	25	1/19/2010	Forward in Faith	Godin, Norma	Yes	25	Month
+11017	8019	4	3	2	1	161.	1/19/2010	General	Godin, Norma	Yes	25	Month
+11018	8019	4	3	2	6	25	1/19/2010	Forward in Faith	Godin, Norma	Yes	25	Month
+11109	8019	4	3	4	2	20	1/19/2010	Lottie Moon	Godin, Norma	Yes	25	Month
+9516	8021	1	1	1	1	20	1/4/2009	General	Graves, Allan and Johanna	Yes		
+9607	8021	1	2	2	1	500	7/26/2009	General	Graves, Allan and Johanna	Yes	500	Month
+11112	8021	1	2	4	6	500	1/19/2010	Forward in Faith	Graves, Allan and Johanna	Yes	500	Month
+9772	8021	1	3	1	1	500.00	1/18/2010	General	Graves, Allan and Johanna	Yes	500	Month
+9866	8021	2	1	1	1	500.00	1/18/2010	General	Graves, Allan and Johanna	Yes	500	Month
+10005	8021	2	2	1	1	15.00	1/18/2010	General	Graves, Allan and Johanna	Yes	500	Month
+9988	8021	2	2	1	1	500.00	1/18/2010	General	Graves, Allan and Johanna	Yes	500	Month
+11116	8021	2	2	3	6	4000.00	1/19/2010	Forward in Faith	Graves, Allan and Johanna	Yes	500	Month
+11117	8021	2	2	4	6	100	1/19/2010	Forward in Faith	Graves, Allan and Johanna	Yes	500	Month
+10131	8021	2	2	5	1	15.00	1/18/2010	General	Graves, Allan and Johanna	Yes	500	Month
+10132	8021	2	2	5	1	500.00	1/18/2010	General	Graves, Allan and Johanna	Yes	500	Month
+10291	8021	3	1	1	1	500.00	1/19/2010	General	Graves, Allan and Johanna	Yes	500	Month
+10282	8021	3	1	1	1	6.00	1/19/2010	General	Graves, Allan and Johanna	Yes	500	Month
+10308	8021	3	1	2	1	6.00	1/19/2010	General	Graves, Allan and Johanna	Yes	500	Month
+10415	8021	3	2	1	1	500.00	1/19/2010	General	Graves, Allan and Johanna	Yes	500	Month
+10413	8021	3	2	1	1	60.00	1/19/2010	General	Graves, Allan and Johanna	Yes	500	Month
+10405	8021	3	2	1	18	260.00	1/19/2010	Building Repairs	Graves, Allan and Johanna	Yes	500	Month
+11122	8021	3	2	1	6	500	1/19/2010	Forward in Faith	Graves, Allan and Johanna	Yes	500	Month
+9683	8021	3	2	1	6	500	8/17/2009	Forward in Faith	Graves, Allan and Johanna	Yes	500	Month
+10456	8021	3	2	2	1	3.00	1/19/2010	General	Graves, Allan and Johanna	Yes	500	Month
+10524	8021	3	2	5	1	115.	1/19/2010	General	Graves, Allan and Johanna	Yes	500	Month
+10570	8021	3	3	1	1	500.	1/19/2010	General	Graves, Allan and Johanna	Yes	500	Month
+11124	8021	3	3	1	6	500           	1/19/2010	Forward in Faith	Graves, Allan and Johanna	Yes	500	Month
+10599	8021	3	3	2	1	620.	1/19/2010	General	Graves, Allan and Johanna	Yes	500	Month
+10662	8021	4	1	1	1	500	1/19/2010	General	Graves, Allan and Johanna	Yes	500	Month
+11126	8021	4	1	1	6	500	1/19/2010	Forward in Faith	Graves, Allan and Johanna	Yes	500	Month
+10721	8021	4	1	2	1	235	1/19/2010	General	Graves, Allan and Johanna	Yes	500	Month
+10828	8021	4	2	1	1	500	1/19/2010	General	Graves, Allan and Johanna	Yes	500	Month
+11127	8021	4	2	1	6	500	1/19/2010	Forward in Faith	Graves, Allan and Johanna	Yes	500	Month
+10875	8021	4	2	3	1	20	1/19/2010	General	Graves, Allan and Johanna	Yes	500	Month
+11129	8021	4	2	5	6	500	1/19/2010	Forward in Faith	Graves, Allan and Johanna	Yes	500	Month
+10971	8021	4	3	1	1	500	1/19/2010	General	Graves, Allan and Johanna	Yes	500	Month
+11038	8021	4	3	2	1	454.13	1/19/2010	General	Graves, Allan and Johanna	Yes	500	Month
+11111	8021	4	3	4	1	500	1/19/2010	General	Graves, Allan and Johanna	Yes	500	Month
+11132	8021	4	3	4	6	400	1/19/2010	Forward in Faith	Graves, Allan and Johanna	Yes	500	Month
+10425	8022	3	2	2	6	21.67	1/19/2010	Forward in Faith	Greene, Tim	Yes	21.67	Month
+10537	8022	3	2	5	6	21.67	1/19/2010	Forward in Faith	Greene, Tim	Yes	21.67	Month
+9509	8023	1	1	1	2	2.37	1/4/2009	Lottie Moon	Hughes, Roy and Lisa 	Yes		
+9544	8023	1	1	2	1	300.	7/26/2009	General	Hughes, Roy and Lisa 	Yes	100	Month
+9559	8023	1	1	4	1	200	7/26/2009	General	Hughes, Roy and Lisa 	Yes	100	Month
+9742	8023	1	2	4	1	200.00	1/18/2010	General	Hughes, Roy and Lisa 	Yes	100	Month
+9785	8023	1	3	2	1	350.00	1/18/2010	General	Hughes, Roy and Lisa 	Yes	100	Month
+9836	8023	1	3	4	1	240.00	1/18/2010	General	Hughes, Roy and Lisa 	Yes	100	Month
+9913	8023	2	1	2	1	290.00	1/18/2010	General	Hughes, Roy and Lisa 	Yes	100	Month
+10062	8023	2	2	3	1	230.00	1/18/2010	General	Hughes, Roy and Lisa 	Yes	100	Month
+10060	8023	2	2	3	1	260.00	1/18/2010	General	Hughes, Roy and Lisa 	Yes	100	Month
+10061	8023	2	2	3	1	290.00	1/18/2010	General	Hughes, Roy and Lisa 	Yes	100	Month
+10152	8023	2	3	1	1	300.00	1/18/2010	General	Hughes, Roy and Lisa 	Yes	100	Month
+10422	8023	3	2	2	1	200.00	1/19/2010	General	Hughes, Roy and Lisa 	Yes	100	Month
+10423	8023	3	2	2	44	130.00	1/19/2010	Youth	Hughes, Roy and Lisa 	Yes	100	Month
+10554	8023	3	3	1	1	300	1/19/2010	General	Hughes, Roy and Lisa 	Yes	100	Month
+10614	8023	3	3	3	1	300	1/19/2010	General	Hughes, Roy and Lisa 	Yes	100	Month
+10675	8023	4	1	1	1	300	1/19/2010	General	Hughes, Roy and Lisa 	Yes	100	Month
+10880	8023	4	2	3	1	300	1/19/2010	General	Hughes, Roy and Lisa 	Yes	100	Month
+11022	8023	4	3	2	1	300	1/19/2010	General	Hughes, Roy and Lisa 	Yes	100	Month
+9514	8025	1	1	1	1	20	1/4/2009	General	Jackson, Don and Beverly	Yes		
+9510	8025	1	1	1	2	20	1/4/2009	Lottie Moon	Jackson, Don and Beverly	Yes		
+9609	8025	1	2	2	1	20	7/26/2009	General	Jackson, Don and Beverly	Yes	5	Month
+9633	8025	1	2	3	1	20	7/26/2009	General	Jackson, Don and Beverly	Yes	5	Month
+9702	8025	1	2	3	1	20.00	1/18/2010	General	Jackson, Don and Beverly	Yes	5	Month
+9668	8025	1	2	4	1	20	7/26/2009	General	Jackson, Don and Beverly	Yes	5	Month
+9737	8025	1	2	4	1	20.00	1/18/2010	General	Jackson, Don and Beverly	Yes	5	Month
+9821	8025	1	3	3	1	20.00	1/18/2010	General	Jackson, Don and Beverly	Yes	5	Month
+9863	8025	1	3	5	1	20.00	1/18/2010	General	Jackson, Don and Beverly	Yes	5	Month
+9891	8025	2	1	1	1	20.00	1/18/2010	General	Jackson, Don and Beverly	Yes	5	Month
+9908	8025	2	1	2	1	20.00	1/18/2010	General	Jackson, Don and Beverly	Yes	5	Month
+9939	8025	2	1	3	1	20.00	1/18/2010	General	Jackson, Don and Beverly	Yes	5	Month
+9998	8025	2	2	1	1	20.00	1/18/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10033	8025	2	2	2	1	20.00	1/18/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10059	8025	2	2	3	1	20.00	1/18/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10098	8025	2	2	4	1	20.00	1/18/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10127	8025	2	2	5	1	20.00	1/18/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10143	8025	2	3	1	1	20.00	1/18/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10190	8025	2	3	3	1	20.00	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10243	8025	2	3	4	1	20.00	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10278	8025	3	1	1	1	20.00	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10303	8025	3	1	2	1	20.00	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10339	8025	3	1	3	1	20.00	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10465	8025	3	2	3	1	20.00	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10508	8025	3	2	4	1	20.00	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10535	8025	3	2	5	1	20.	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10544	8025	3	3	1	1	20.	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10580	8025	3	3	2	1	20	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10615	8025	3	3	3	1	20	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10641	8025	3	3	4	1	20	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10667	8025	4	1	1	1	20.	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10700	8025	4	1	2	1	20	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10755	8025	4	1	3	1	20	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10767	8025	4	1	4	1	20	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10874	8025	4	2	3	1	20	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10921	8025	4	2	4	1	20	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10920	8025	4	2	4	6	20	1/19/2010	Forward in Faith	Jackson, Don and Beverly	Yes	5	Month
+10959	8025	4	2	5	1	20	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+10976	8025	4	3	1	1	20	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+11010	8025	4	3	2	1	20	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+11093	8025	4	3	4	1	20	1/19/2010	General	Jackson, Don and Beverly	Yes	5	Month
+9518	8026	1	1	1	1	70	1/4/2009	General	Legendre, Myrtle	Yes		
+9625	8026	1	2	2	1	70	7/26/2009	General	Legendre, Myrtle	Yes	15	Month
+9793	8026	1	3	2	1	70.00	1/18/2010	General	Legendre, Myrtle	Yes	15	Month
+9946	8026	2	1	3	1	70.00	1/18/2010	General	Legendre, Myrtle	Yes	15	Month
+10080	8026	2	2	3	1	70.00	1/18/2010	General	Legendre, Myrtle	Yes	15	Month
+10215	8026	2	3	3	1	50.00	1/19/2010	General	Legendre, Myrtle	Yes	15	Month
+10314	8026	3	1	2	1	50.00	1/19/2010	General	Legendre, Myrtle	Yes	15	Month
+10315	8026	3	1	2	6	15.00	1/19/2010	Forward in Faith	Legendre, Myrtle	Yes	15	Month
+10446	8026	3	2	2	1	50.00	1/19/2010	General	Legendre, Myrtle	Yes	15	Month
+10445	8026	3	2	2	6	15.00	1/19/2010	Forward in Faith	Legendre, Myrtle	Yes	15	Month
+10603	8026	3	3	3	6	15.	1/19/2010	Forward in Faith	Legendre, Myrtle	Yes	15	Month
+10757	8026	4	1	3	6	15	1/19/2010	Forward in Faith	Legendre, Myrtle	Yes	15	Month
+10925	8026	4	2	4	6	15	1/19/2010	Forward in Faith	Legendre, Myrtle	Yes	15	Month
+11067	8026	4	3	3	1	75	1/19/2010	General	Legendre, Myrtle	Yes	15	Month
+9523	8027	1	1	1	1	50	1/4/2009	General	Marcotte, Jodi	Yes		
+9500	8027	1	1	1	2	7	1/4/2009	Lottie Moon	Marcotte, Jodi	Yes		
+9524	8027	1	1	1	5	5	1/4/2009	Benevolence	Marcotte, Jodi	Yes		
+9546	8027	1	1	3	1	50.00	7/26/2009	General	Marcotte, Jodi	Yes	40	Month
+9771	8027	1	3	1	1	100.00	1/18/2010	General	Marcotte, Jodi	Yes	40	Month
+9932	8027	2	1	2	1	100.00	1/18/2010	General	Marcotte, Jodi	Yes	40	Month
+9933	8027	2	1	2	6	20.00	1/18/2010	Forward in Faith	Marcotte, Jodi	Yes	40	Month
+9982	8027	2	1	4	1	80.00	1/18/2010	General	Marcotte, Jodi	Yes	40	Month
+9981	8027	2	1	4	6	20.00	1/18/2010	Forward in Faith	Marcotte, Jodi	Yes	40	Month
+9993	8027	2	2	1	1	20.00	1/18/2010	General	Marcotte, Jodi	Yes	40	Month
+9994	8027	2	2	1	6	5.00	1/18/2010	Forward in Faith	Marcotte, Jodi	Yes	40	Month
+10021	8027	2	2	2	1	70.00	1/18/2010	General	Marcotte, Jodi	Yes	40	Month
+10182	8027	2	3	2	1	80.00	1/19/2010	General	Marcotte, Jodi	Yes	40	Month
+10183	8027	2	3	2	6	20.00	1/19/2010	Forward in Faith	Marcotte, Jodi	Yes	40	Month
+10287	8027	3	1	1	44	100.00	1/19/2010	Youth	Marcotte, Jodi	Yes	40	Month
+10288	8027	3	1	1	6	20.00	1/19/2010	Forward in Faith	Marcotte, Jodi	Yes	40	Month
+10418	8027	3	2	1	6	50.00	1/19/2010	Forward in Faith	Marcotte, Jodi	Yes	40	Month
+10458	8027	3	2	3	1	80.00	1/19/2010	General	Marcotte, Jodi	Yes	40	Month
+10459	8027	3	2	3	6	20.00	1/19/2010	Forward in Faith	Marcotte, Jodi	Yes	40	Month
+10759	8027	4	1	3	1	40	1/19/2010	General	Marcotte, Jodi	Yes	40	Month
+10758	8027	4	1	3	6	40	1/19/2010	Forward in Faith	Marcotte, Jodi	Yes	40	Month
+10766	8027	4	1	4	6	20	1/19/2010	Forward in Faith	Marcotte, Jodi	Yes	40	Month
+11020	8027	4	3	2	1	40	1/19/2010	General	Marcotte, Jodi	Yes	40	Month
+11021	8027	4	3	2	6	20	1/19/2010	Forward in Faith	Marcotte, Jodi	Yes	40	Month
+11086	8027	4	3	4	1	50	1/19/2010	General	Marcotte, Jodi	Yes	40	Month
+11087	8027	4	3	4	6	20	1/19/2010	Forward in Faith	Marcotte, Jodi	Yes	40	Month
+9526	8030	1	1	1	1	40	1/4/2009	General	McKee, April and Gary	Yes		
+9555	8030	1	1	3	1	40	7/26/2009	General	McKee, April and Gary	Yes	10	Week
+9578	8030	1	1	4	1	20	7/26/2009	General	McKee, April and Gary	Yes	10	Week
+9595	8030	1	2	1	1	20	7/26/2009	General	McKee, April and Gary	Yes	10	Week
+9638	8030	1	2	3	1	40	7/26/2009	General	McKee, April and Gary	Yes	10	Week
+9707	8030	1	2	3	1	40.00	1/18/2010	General	McKee, April and Gary	Yes	10	Week
+9663	8030	1	2	4	1	20	7/26/2009	General	McKee, April and Gary	Yes	10	Week
+9732	8030	1	2	4	1	20.00	1/18/2010	General	McKee, April and Gary	Yes	10	Week
+9752	8030	1	3	1	1	20.00	1/18/2010	General	McKee, April and Gary	Yes	10	Week
+9787	8030	1	3	2	1	40.00	1/18/2010	General	McKee, April and Gary	Yes	10	Week
+9812	8030	1	3	3	1	20.00	1/18/2010	General	McKee, April and Gary	Yes	10	Week
+9827	8030	1	3	4	1	20.00	1/18/2010	General	McKee, April and Gary	Yes	10	Week
+9855	8030	1	3	5	1	30.00	1/18/2010	General	McKee, April and Gary	Yes	10	Week
+9880	8030	2	1	1	1	20.00	1/18/2010	General	McKee, April and Gary	Yes	10	Week
+9927	8030	2	1	2	1	20.00	1/18/2010	General	McKee, April and Gary	Yes	10	Week
+9949	8030	2	1	3	1	20.00	1/18/2010	General	McKee, April and Gary	Yes	10	Week
+9978	8030	2	1	4	1	20.00	1/18/2010	General	McKee, April and Gary	Yes	10	Week
+10022	8030	2	2	2	1	20.00	1/18/2010	General	McKee, April and Gary	Yes	10	Week
+10063	8030	2	2	3	1	20.00	1/18/2010	General	McKee, April and Gary	Yes	10	Week
+10064	8030	2	2	3	6	5.00	1/18/2010	Forward in Faith	McKee, April and Gary	Yes	10	Week
+10104	8030	2	2	4	1	20.00	1/18/2010	General	McKee, April and Gary	Yes	10	Week
+10105	8030	2	2	4	1	5.00	1/18/2010	General	McKee, April and Gary	Yes	10	Week
+10109	8030	2	2	5	1	20.00	1/18/2010	General	McKee, April and Gary	Yes	10	Week
+10108	8030	2	2	5	6	5.00	1/18/2010	Forward in Faith	McKee, April and Gary	Yes	10	Week
+10137	8030	2	3	1	1	20.00	1/18/2010	General	McKee, April and Gary	Yes	10	Week
+10138	8030	2	3	1	6	5.00	1/18/2010	Forward in Faith	McKee, April and Gary	Yes	10	Week
+10178	8030	2	3	2	1	40.00	1/19/2010	General	McKee, April and Gary	Yes	10	Week
+10177	8030	2	3	2	6	10.00	1/19/2010	Forward in Faith	McKee, April and Gary	Yes	10	Week
+10202	8030	2	3	3	1	20.00	1/19/2010	General	McKee, April and Gary	Yes	10	Week
+10203	8030	2	3	3	6	10.00	1/19/2010	Forward in Faith	McKee, April and Gary	Yes	10	Week
+10239	8030	2	3	4	1	20.00	1/19/2010	General	McKee, April and Gary	Yes	10	Week
+10240	8030	2	3	4	6	10.00	1/19/2010	Forward in Faith	McKee, April and Gary	Yes	10	Week
+10312	8030	3	1	2	1	20.00	1/19/2010	General	McKee, April and Gary	Yes	10	Week
+10313	8030	3	1	2	6	10.00	1/19/2010	Forward in Faith	McKee, April and Gary	Yes	10	Week
+10398	8030	3	2	1	1	30.00	1/19/2010	General	McKee, April and Gary	Yes	10	Week
+10399	8030	3	2	1	6	20.00	1/19/2010	Forward in Faith	McKee, April and Gary	Yes	10	Week
+10438	8030	3	2	2	1	20.00	1/19/2010	General	McKee, April and Gary	Yes	10	Week
+10439	8030	3	2	2	6	10.00	1/19/2010	Forward in Faith	McKee, April and Gary	Yes	10	Week
+10688	8030	4	1	1	1	20	1/19/2010	General	McKee, April and Gary	Yes	10	Week
+10689	8030	4	1	1	6	10	1/19/2010	Forward in Faith	McKee, April and Gary	Yes	10	Week
+10749	8030	4	1	3	1	20	1/19/2010	General	McKee, April and Gary	Yes	10	Week
+10750	8030	4	1	3	6	10	1/19/2010	Forward in Faith	McKee, April and Gary	Yes	10	Week
+10772	8030	4	1	4	1	20	1/19/2010	General	McKee, April and Gary	Yes	10	Week
+10773	8030	4	1	4	6	10	1/19/2010	Forward in Faith	McKee, April and Gary	Yes	10	Week
+10823	8030	4	2	1	1	20	1/19/2010	General	McKee, April and Gary	Yes	10	Week
+10824	8030	4	2	1	6	10	1/19/2010	Forward in Faith	McKee, April and Gary	Yes	10	Week
+10861	8030	4	2	2	1	20	1/19/2010	General	McKee, April and Gary	Yes	10	Week
+10860	8030	4	2	2	6	10	1/19/2010	Forward in Faith	McKee, April and Gary	Yes	10	Week
+10879	8030	4	2	3	1	20	1/19/2010	General	McKee, April and Gary	Yes	10	Week
+10878	8030	4	2	3	6	10	1/19/2010	Forward in Faith	McKee, April and Gary	Yes	10	Week
+10902	8030	4	2	4	1	30	1/19/2010	General	McKee, April and Gary	Yes	10	Week
+10937	8030	4	2	4	5	10	1/19/2010	Benevolence	McKee, April and Gary	Yes	10	Week
+10963	8030	4	2	5	1	20	1/19/2010	General	McKee, April and Gary	Yes	10	Week
+10962	8030	4	2	5	6	10	1/19/2010	Forward in Faith	McKee, April and Gary	Yes	10	Week
+10990	8030	4	3	1	1	20	1/19/2010	General	McKee, April and Gary	Yes	10	Week
+10991	8030	4	3	1	6	10	1/19/2010	Forward in Faith	McKee, April and Gary	Yes	10	Week
+11061	8030	4	3	3	1	30	1/19/2010	General	McKee, April and Gary	Yes	10	Week
+11063	8030	4	3	3	2	10	1/19/2010	Lottie Moon	McKee, April and Gary	Yes	10	Week
+11062	8030	4	3	3	6	10	1/19/2010	Forward in Faith	McKee, April and Gary	Yes	10	Week
+11102	8030	4	3	4	1	20	1/19/2010	General	McKee, April and Gary	Yes	10	Week
+11108	8030	4	3	4	2	10	1/19/2010	Lottie Moon	McKee, April and Gary	Yes	10	Week
+11103	8030	4	3	4	6	10	1/19/2010	Forward in Faith	McKee, April and Gary	Yes	10	Week
+9503	8031	1	1	1	1	50	1/4/2009	General	Mobley, Archie	Yes		
+9513	8032	1	1	1	1	40	1/4/2009	General	Moody, Naomi	Yes		
+9504	8032	1	1	1	2	10	1/4/2009	Lottie Moon	Moody, Naomi	Yes		
+9575	8032	1	1	4	1	40	7/26/2009	General	Moody, Naomi	Yes	10	Week
+9558	8032	1	1	4	1	80	7/26/2009	General	Moody, Naomi	Yes	10	Week
+9598	8032	1	2	1	1	40	7/26/2009	General	Moody, Naomi	Yes	10	Week
+9626	8032	1	2	2	1	40	7/26/2009	General	Moody, Naomi	Yes	10	Week
+9632	8032	1	2	3	1	60	7/26/2009	General	Moody, Naomi	Yes	10	Week
+9701	8032	1	2	3	1	60.00	1/18/2010	General	Moody, Naomi	Yes	10	Week
+9676	8032	1	2	4	1	60	7/26/2009	General	Moody, Naomi	Yes	10	Week
+9745	8032	1	2	4	1	60.00	1/18/2010	General	Moody, Naomi	Yes	10	Week
+9677	8032	1	2	4	5	7	7/26/2009	Benevolence	Moody, Naomi	Yes	10	Week
+9746	8032	1	2	4	5	7.00	1/18/2010	Benevolence	Moody, Naomi	Yes	10	Week
+9751	8032	1	3	1	1	60.00	1/18/2010	General	Moody, Naomi	Yes	10	Week
+9784	8032	1	3	2	1	40.00	1/18/2010	General	Moody, Naomi	Yes	10	Week
+9817	8032	1	3	3	1	40.00	1/18/2010	General	Moody, Naomi	Yes	10	Week
+9839	8032	1	3	4	1	40.00	1/18/2010	General	Moody, Naomi	Yes	10	Week
+9865	8032	1	3	5	1	40.00	1/18/2010	General	Moody, Naomi	Yes	10	Week
+9895	8032	2	1	1	1	40.00	1/18/2010	General	Moody, Naomi	Yes	10	Week
+9907	8032	2	1	2	1	40.00	1/18/2010	General	Moody, Naomi	Yes	10	Week
+9958	8032	2	1	3	1	40.00	1/18/2010	General	Moody, Naomi	Yes	10	Week
+9974	8032	2	1	4	1	40.00	1/18/2010	General	Moody, Naomi	Yes	10	Week
+10002	8032	2	2	1	1	40.00	1/18/2010	General	Moody, Naomi	Yes	10	Week
+10034	8032	2	2	2	1	40.00	1/18/2010	General	Moody, Naomi	Yes	10	Week
+10057	8032	2	2	3	1	40.00	1/18/2010	General	Moody, Naomi	Yes	10	Week
+10097	8032	2	2	4	1	40.00	1/18/2010	General	Moody, Naomi	Yes	10	Week
+10125	8032	2	2	5	1	40.00	1/18/2010	General	Moody, Naomi	Yes	10	Week
+10144	8032	2	3	1	1	40.00	1/18/2010	General	Moody, Naomi	Yes	10	Week
+10164	8032	2	3	2	1	40.00	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10188	8032	2	3	3	1	40.00	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10250	8032	2	3	4	1	40.00	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10302	8032	3	1	2	1	120.00	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10340	8032	3	1	3	1	40.00	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10375	8032	3	1	4	1	40.00	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10414	8032	3	2	1	1	40.00	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10433	8032	3	2	2	1	60.00	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10463	8032	3	2	3	1	60.00	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10485	8032	3	2	4	1	60.00	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10515	8032	3	2	5	1	60.00	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10553	8032	3	3	1	1	60.	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10579	8032	3	3	2	1	60	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10616	8032	3	3	3	1	60	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10640	8032	3	3	4	1	60	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10673	8032	4	1	1	1	60	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10706	8032	4	1	2	1	60	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10707	8032	4	1	2	6	10	1/19/2010	Forward in Faith	Moody, Naomi	Yes	10	Week
+10739	8032	4	1	3	1	60	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10740	8032	4	1	3	6	10	1/19/2010	Forward in Faith	Moody, Naomi	Yes	10	Week
+10777	8032	4	1	4	1	60	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10778	8032	4	1	4	6	10	1/19/2010	Forward in Faith	Moody, Naomi	Yes	10	Week
+10826	8032	4	2	1	1	60	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10827	8032	4	2	1	6	10	1/19/2010	Forward in Faith	Moody, Naomi	Yes	10	Week
+10852	8032	4	2	2	1	70	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10892	8032	4	2	3	1	60	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10893	8032	4	2	3	6	10	1/19/2010	Forward in Faith	Moody, Naomi	Yes	10	Week
+10918	8032	4	2	4	1	60	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10919	8032	4	2	4	6	10	1/19/2010	Forward in Faith	Moody, Naomi	Yes	10	Week
+10957	8032	4	2	5	1	60	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10958	8032	4	2	5	6	10	1/19/2010	Forward in Faith	Moody, Naomi	Yes	10	Week
+10980	8032	4	3	1	1	60	1/19/2010	General	Moody, Naomi	Yes	10	Week
+10981	8032	4	3	1	6	10	1/19/2010	Forward in Faith	Moody, Naomi	Yes	10	Week
+11024	8032	4	3	2	1	60	1/19/2010	General	Moody, Naomi	Yes	10	Week
+11025	8032	4	3	2	6	10	1/19/2010	Forward in Faith	Moody, Naomi	Yes	10	Week
+11051	8032	4	3	3	1	60	1/19/2010	General	Moody, Naomi	Yes	10	Week
+11052	8032	4	3	3	6	10	1/19/2010	Forward in Faith	Moody, Naomi	Yes	10	Week
+11094	8032	4	3	4	1	60	1/19/2010	General	Moody, Naomi	Yes	10	Week
+11095	8032	4	3	4	6	10	1/19/2010	Forward in Faith	Moody, Naomi	Yes	10	Week
+10265	8037	3	1	1	1	25.00	1/19/2010	General	Patterson, Edwin 	Yes	10	Week
+9528	8039	1	1	1	1	150	1/4/2009	General	Scoggins, John	Yes		
+9554	8039	1	1	3	1	300.	7/26/2009	General	Scoggins, John	Yes	32.50	Week
+9604	8039	1	2	1	1	300	7/26/2009	General	Scoggins, John	Yes	32.50	Week
+9644	8039	1	2	3	1	300	7/26/2009	General	Scoggins, John	Yes	32.50	Week
+9658	8039	1	2	4	1	150	7/26/2009	General	Scoggins, John	Yes	32.50	Week
+9776	8039	1	3	2	1	150.00	1/18/2010	General	Scoggins, John	Yes	32.50	Week
+9777	8039	1	3	2	3	75.00	1/18/2010	Annie Armstrong	Scoggins, John	Yes	32.50	Week
+9807	8039	1	3	3	1	150.00	1/18/2010	General	Scoggins, John	Yes	32.50	Week
+9837	8039	1	3	4	1	150.00	1/18/2010	General	Scoggins, John	Yes	32.50	Week
+9853	8039	1	3	5	1	150.00	1/18/2010	General	Scoggins, John	Yes	32.50	Week
+9879	8039	2	1	1	1	150.00	1/18/2010	General	Scoggins, John	Yes	32.50	Week
+9901	8039	2	1	1	5	10.00	1/18/2010	Benevolence	Scoggins, John	Yes	32.50	Week
+9928	8039	2	1	2	1	150.00	1/18/2010	General	Scoggins, John	Yes	32.50	Week
+9964	8039	2	1	4	1	150.00	1/18/2010	General	Scoggins, John	Yes	32.50	Week
+9983	8039	2	1	4	1	150.00	1/18/2010	General	Scoggins, John	Yes	32.50	Week
+9984	8039	2	1	4	44	25.00	1/18/2010	Youth	Scoggins, John	Yes	32.50	Week
+10042	8039	2	2	2	1	300.00	1/18/2010	General	Scoggins, John	Yes	32.50	Week
+10071	8039	2	2	3	1	150.00	1/18/2010	General	Scoggins, John	Yes	32.50	Week
+10070	8039	2	2	3	5	25.00	1/18/2010	Benevolence	Scoggins, John	Yes	32.50	Week
+10088	8039	2	2	4	1	150.00	1/18/2010	General	Scoggins, John	Yes	32.50	Week
+10114	8039	2	2	5	1	150.00	1/18/2010	General	Scoggins, John	Yes	32.50	Week
+10115	8039	2	2	5	44	50.00	1/18/2010	Youth	Scoggins, John	Yes	32.50	Week
+10145	8039	2	3	1	1	150.00	1/18/2010	General	Scoggins, John	Yes	32.50	Week
+10146	8039	2	3	1	44	25.00	1/18/2010	Youth	Scoggins, John	Yes	32.50	Week
+10170	8039	2	3	2	1	150.00	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10171	8039	2	3	2	44	25.00	1/19/2010	Youth	Scoggins, John	Yes	32.50	Week
+10222	8039	2	3	4	1	150.00	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10256	8039	3	1	1	1	150.00	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10255	8039	3	1	1	6	35.00	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+10309	8039	3	1	2	1	150.00	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10310	8039	3	1	2	50	35.00	1/19/2010	Fall Festival	Scoggins, John	Yes	32.50	Week
+10389	8039	3	2	1	1	300.00	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10390	8039	3	2	1	6	70.00	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+10432	8039	3	2	2	1	150.00	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10431	8039	3	2	2	6	35.00	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+10476	8039	3	2	3	1	150-.00	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10477	8039	3	2	3	6	35.00	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+10525	8039	3	2	5	1	300.00	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10526	8039	3	2	5	6	70	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+10573	8039	3	3	1	1	150.	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10572	8039	3	3	1	6	35.	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+10590	8039	3	3	2	1	150	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10591	8039	3	3	2	6	35.	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+10632	8039	3	3	4	1	270	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10633	8039	3	3	4	6	70	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+10691	8039	4	1	1	1	135.	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10690	8039	4	1	1	6	40	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+10709	8039	4	1	2	1	135	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10708	8039	4	1	2	6	35.	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+10752	8039	4	1	3	1	135.	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10753	8039	4	1	3	6	55	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+10785	8039	4	1	4	1	135.	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10784	8039	4	1	4	6	35	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+10807	8039	4	2	1	1	135	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10808	8039	4	2	1	6	35	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+10850	8039	4	2	2	1	135	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10849	8039	4	2	2	6	35.	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+10885	8039	4	2	3	1	135	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10886	8039	4	2	3	6	35	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+10913	8039	4	2	4	1	135	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10912	8039	4	2	4	6	35	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+10944	8039	4	2	5	1	135	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10943	8039	4	2	5	6	35	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+10997	8039	4	3	1	1	135	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+10996	8039	4	3	1	2	100	1/19/2010	Lottie Moon	Scoggins, John	Yes	32.50	Week
+10998	8039	4	3	1	6	35	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+10999	8039	4	3	1	7	25	1/19/2010	Hunger	Scoggins, John	Yes	32.50	Week
+11044	8039	4	3	2	1	135	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+11043	8039	4	3	2	6	35	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+11058	8039	4	3	3	1	135	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+11057	8039	4	3	3	6	35	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+11080	8039	4	3	4	1	135	1/19/2010	General	Scoggins, John	Yes	32.50	Week
+11081	8039	4	3	4	2	100	1/19/2010	Lottie Moon	Scoggins, John	Yes	32.50	Week
+11079	8039	4	3	4	6	35	1/19/2010	Forward in Faith	Scoggins, John	Yes	32.50	Week
+9520	8040	1	1	1	1	350	1/4/2009	General	Simpson, Avelina	Yes		
+9717	8040	1	2	3	1	350.00	1/18/2010	General	Simpson, Avelina	Yes	25	Week
+10241	8040	2	3	4	1	200.00	1/19/2010	General	Simpson, Avelina	Yes	25	Week
+10242	8040	2	3	4	6	50.00	1/19/2010	Forward in Faith	Simpson, Avelina	Yes	25	Week
+10349	8041	3	1	3	5	45.00	1/19/2010	Benevolence	Smith, Mary Ellen	Yes	40	Month
+10592	8041	3	3	2	6	90	1/19/2010	Forward in Faith	Smith, Mary Ellen	Yes	40	Month
+10681	8041	4	1	1	18	1251.00	1/19/2010	Building Repairs	Smith, Mary Ellen	Yes	40	Month
+10802	8041	4	2	1	6	45	1/19/2010	Forward in Faith	Smith, Mary Ellen	Yes	40	Month
+10863	8041	4	2	2	6	45	1/19/2010	Forward in Faith	Smith, Mary Ellen	Yes	40	Month
+10967	8041	4	2	5	1	120	1/19/2010	General	Smith, Mary Ellen	Yes	40	Month
+11003	8041	4	3	1	6	45	1/19/2010	Forward in Faith	Smith, Mary Ellen	Yes	40	Month
+11059	8041	4	3	3	1	103	1/19/2010	General	Smith, Mary Ellen	Yes	40	Month
+9890	8043	2	1	1	1	100.00	1/18/2010	General	Surtees, Michael	Yes	200	Month
+9937	8043	2	1	3	1	100.00	1/18/2010	General	Surtees, Michael	Yes	200	Month
+9551	8046	1	1	3	1	150	7/26/2009	General	Vose, Ann	Yes	13800.	Total
+9585	8046	1	1	4	1	100	7/26/2009	General	Vose, Ann	Yes	13800.	Total
+9623	8046	1	2	2	1	200	7/26/2009	General	Vose, Ann	Yes	13800.	Total
+9634	8046	1	2	3	1	200	7/26/2009	General	Vose, Ann	Yes	13800.	Total
+9770	8046	1	3	1	1	500.00	1/18/2010	General	Vose, Ann	Yes	13800.	Total
+9919	8046	2	1	2	1	200.00	1/18/2010	General	Vose, Ann	Yes	13800.	Total
+9938	8046	2	1	3	1	100.00	1/18/2010	General	Vose, Ann	Yes	13800.	Total
+10045	8046	2	2	2	1	3000.00	1/18/2010	General	Vose, Ann	Yes	13800.	Total
+10095	8046	2	2	4	1	200.00	1/18/2010	General	Vose, Ann	Yes	13800.	Total
+10122	8046	2	2	5	1	100.00	1/18/2010	General	Vose, Ann	Yes	13800.	Total
+10165	8046	2	3	2	1	100.00	1/19/2010	General	Vose, Ann	Yes	13800.	Total
+10227	8046	2	3	4	1	200.00	1/19/2010	General	Vose, Ann	Yes	13800.	Total
+10297	8046	3	1	2	1	200.00	1/19/2010	General	Vose, Ann	Yes	13800.	Total
+10378	8046	3	1	4	1	150.00	1/19/2010	General	Vose, Ann	Yes	13800.	Total
+10377	8046	3	1	4	6	5000.00	1/19/2010	Forward in Faith	Vose, Ann	Yes	13800.	Total
+10455	8046	3	2	2	1	100.00	1/19/2010	General	Vose, Ann	Yes	13800.	Total
+10461	8046	3	2	3	1	150.00	1/19/2010	General	Vose, Ann	Yes	13800.	Total
+10594	8046	3	3	2	1	100	1/19/2010	General	Vose, Ann	Yes	13800.	Total
+10643	8046	3	3	4	1	200	1/19/2010	General	Vose, Ann	Yes	13800.	Total
+10710	8046	4	1	2	1	300	1/19/2010	General	Vose, Ann	Yes	13800.	Total
+10837	8046	4	2	2	1	200	1/19/2010	General	Vose, Ann	Yes	13800.	Total
+10881	8046	4	2	3	1	100	1/19/2010	General	Vose, Ann	Yes	13800.	Total
+10956	8046	4	2	5	1	100	1/19/2010	General	Vose, Ann	Yes	13800.	Total
+11046	8046	4	3	2	2	50	1/19/2010	Lottie Moon	Vose, Ann	Yes	13800.	Total
+11050	8046	4	3	3	1	300	1/19/2010	General	Vose, Ann	Yes	13800.	Total
+9530	8047	1	1	1	1	30	1/4/2009	General	Williams, Bob	Yes		
+9600	8047	1	2	1	1	100	7/26/2009	General	Williams, Bob	Yes	10	Week
+9622	8047	1	2	2	1	40	7/26/2009	General	Williams, Bob	Yes	10	Week
+9649	8047	1	2	3	1	40	7/26/2009	General	Williams, Bob	Yes	10	Week
+9718	8047	1	2	3	1	40.00	1/18/2010	General	Williams, Bob	Yes	10	Week
+9765	8047	1	3	1	1	60.00	1/18/2010	General	Williams, Bob	Yes	10	Week
+9779	8047	1	3	2	1	60.00	1/18/2010	General	Williams, Bob	Yes	10	Week
+9780	8047	1	3	2	5	20.00	1/18/2010	Benevolence	Williams, Bob	Yes	10	Week
+9803	8047	1	3	3	1	40.00	1/18/2010	General	Williams, Bob	Yes	10	Week
+9842	8047	1	3	4	1	30.00	1/18/2010	General	Williams, Bob	Yes	10	Week
+9876	8047	2	1	1	1	60.00	1/18/2010	General	Williams, Bob	Yes	10	Week
+9921	8047	2	1	2	1	30.00	1/18/2010	General	Williams, Bob	Yes	10	Week
+9934	8047	2	1	3	1	40.00	1/18/2010	General	Williams, Bob	Yes	10	Week
+9971	8047	2	1	4	1	40.00	1/18/2010	General	Williams, Bob	Yes	10	Week
+10035	8047	2	2	2	1	30.00	1/18/2010	General	Williams, Bob	Yes	10	Week
+10075	8047	2	2	3	1	30.00	1/18/2010	General	Williams, Bob	Yes	10	Week
+10093	8047	2	2	4	1	40.00	1/18/2010	General	Williams, Bob	Yes	10	Week
+10119	8047	2	2	5	1	40.00	1/18/2010	General	Williams, Bob	Yes	10	Week
+10155	8047	2	3	1	1	20.00	1/18/2010	General	Williams, Bob	Yes	10	Week
+10214	8047	2	3	3	1	25.00	1/19/2010	General	Williams, Bob	Yes	10	Week
+10236	8047	2	3	4	1	30.00	1/19/2010	General	Williams, Bob	Yes	10	Week
+10264	8047	3	1	1	1	40.00	1/19/2010	General	Williams, Bob	Yes	10	Week
+10331	8047	3	1	2	1	40.00	1/19/2010	General	Williams, Bob	Yes	10	Week
+10336	8047	3	1	3	1	40.00	1/19/2010	General	Williams, Bob	Yes	10	Week
+10371	8047	3	1	4	14	50.00	1/19/2010	Hostess	Williams, Bob	Yes	10	Week
+10392	8047	3	2	1	1	80.00	1/19/2010	General	Williams, Bob	Yes	10	Week
+10457	8047	3	2	2	1	40.00	1/19/2010	General	Williams, Bob	Yes	10	Week
+10475	8047	3	2	3	1	40.00	1/19/2010	General	Williams, Bob	Yes	10	Week
+10527	8047	3	2	5	1	80	1/19/2010	General	Williams, Bob	Yes	10	Week
+10550	8047	3	3	1	1	40.	1/19/2010	General	Williams, Bob	Yes	10	Week
+10607	8047	3	3	3	1	80	1/19/2010	General	Williams, Bob	Yes	10	Week
+10630	8047	3	3	4	1	40	1/19/2010	General	Williams, Bob	Yes	10	Week
+10729	8047	4	1	2	1	80	1/19/2010	General	Williams, Bob	Yes	10	Week
+10813	8047	4	2	1	1	120	1/19/2010	General	Williams, Bob	Yes	10	Week
+10841	8047	4	2	2	1	40	1/19/2010	General	Williams, Bob	Yes	10	Week
+10953	8047	4	2	5	1	120	1/19/2010	General	Williams, Bob	Yes	10	Week
+11085	8047	4	3	4	1	120	1/19/2010	General	Williams, Bob	Yes	10	Week
+9533	8048	1	1	1	1	150	1/4/2009	General	Zhu, Sean	Yes		
+9616	8048	1	2	2	1	750	7/26/2009	General	Zhu, Sean	Yes	0  	Total
+9637	8048	1	2	3	1	150	7/26/2009	General	Zhu, Sean	Yes	0  	Total
+9735	8048	1	2	4	1	150.00	1/18/2010	General	Zhu, Sean	Yes	0  	Total
+9766	8048	1	3	1	1	150.00	1/18/2010	General	Zhu, Sean	Yes	0  	Total
+9796	8048	1	3	2	1	125.00	1/18/2010	General	Zhu, Sean	Yes	0  	Total
+9809	8048	1	3	3	1	125.00	1/18/2010	General	Zhu, Sean	Yes	0  	Total
+9841	8048	1	3	4	1	125.00	1/18/2010	General	Zhu, Sean	Yes	0  	Total
+9881	8048	2	1	1	1	200.00	1/18/2010	General	Zhu, Sean	Yes	0  	Total
+9914	8048	2	1	2	1	100.00	1/18/2010	General	Zhu, Sean	Yes	0  	Total
+9936	8048	2	1	3	1	100.00	1/18/2010	General	Zhu, Sean	Yes	0  	Total
+9969	8048	2	1	4	1	100.00	1/18/2010	General	Zhu, Sean	Yes	0  	Total
+10030	8048	2	2	2	1	200.00	1/18/2010	General	Zhu, Sean	Yes	0  	Total
+10102	8048	2	2	4	1	200.00	1/18/2010	General	Zhu, Sean	Yes	0  	Total
+10149	8048	2	3	1	1	200.00	1/18/2010	General	Zhu, Sean	Yes	0  	Total
+10933	8048	4	2	4	1	100	1/19/2010	General	Zhu, Sean	Yes	0  	Total
+11070	8048	4	3	4	1	100	1/19/2010	General	Zhu, Sean	Yes	0  	Total
+9501	8049	1	1	1	1	77	1/4/2009	General	Trotter, Jeff and Paula	Yes		
+9584	8049	1	1	4	1	100	7/26/2009	General	Trotter, Jeff and Paula	Yes	25	Week
+9591	8049	1	2	1	1	120	7/26/2009	General	Trotter, Jeff and Paula	Yes	25	Week
+9608	8049	1	2	2	1	150	7/26/2009	General	Trotter, Jeff and Paula	Yes	25	Week
+9720	8049	1	2	3	1	160.00	1/18/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+9723	8049	1	2	4	1	100.00	1/18/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+9753	8049	1	3	1	1	125.00	1/18/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+9792	8049	1	3	2	1	125.00	1/18/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+9838	8049	1	3	4	1	100.00	1/18/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+9860	8049	1	3	5	1	100.00	1/18/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+9894	8049	2	1	1	1	83.00	1/18/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+9906	8049	2	1	2	1	117.00	1/18/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+9945	8049	2	1	3	1	90.00	1/18/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+9987	8049	2	1	4	1	100.00	1/18/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10016	8049	2	2	2	1	100.00	1/18/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10133	8049	2	3	1	1	75.00	1/18/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10181	8049	2	3	2	1	83.00	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10194	8049	2	3	3	1	84.00	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10195	8049	2	3	3	6	25.00	1/19/2010	Forward in Faith	Trotter, Jeff and Paula	Yes	25	Week
+10220	8049	2	3	4	1	83.00	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10221	8049	2	3	4	6	25.00	1/19/2010	Forward in Faith	Trotter, Jeff and Paula	Yes	25	Week
+10281	8049	3	1	1	1	83.00	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10280	8049	3	1	1	6	25.00	1/19/2010	Forward in Faith	Trotter, Jeff and Paula	Yes	25	Week
+10317	8049	3	1	2	1	83.00	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10318	8049	3	1	2	6	25.00	1/19/2010	Forward in Faith	Trotter, Jeff and Paula	Yes	25	Week
+10354	8049	3	1	4	1	108.00	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10381	8049	3	2	1	1	83.00	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10382	8049	3	2	1	6	25.00	1/19/2010	Forward in Faith	Trotter, Jeff and Paula	Yes	25	Week
+10442	8049	3	2	2	1	83.00	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10443	8049	3	2	2	6	25.00	1/19/2010	Forward in Faith	Trotter, Jeff and Paula	Yes	25	Week
+10466	8049	3	2	3	1	100.00	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10483	8049	3	2	4	1	100.00	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10482	8049	3	2	4	6	25.00	1/19/2010	Forward in Faith	Trotter, Jeff and Paula	Yes	25	Week
+10514	8049	3	2	5	1	125.00	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10541	8049	3	3	1	1	125.00	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10577	8049	3	3	2	1	126.00	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10621	8049	3	3	3	1	125.	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10639	8049	3	3	4	1	125	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10664	8049	4	1	1	1	125.	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10732	8049	4	1	3	1	100	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10762	8049	4	1	3	1	100	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10800	8049	4	2	1	1	100	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+10833	8049	4	2	2	1	98	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+11069	8049	4	3	4	1	100	1/19/2010	General	Trotter, Jeff and Paula	Yes	25	Week
+9527	8050	1	1	1	1	835	1/4/2009	General	Latario, Brian and Colleen	Yes		
+9508	8050	1	1	1	2	500	1/4/2009	Lottie Moon	Latario, Brian and Colleen	Yes		
+9564	8050	1	1	4	1	820	7/26/2009	General	Latario, Brian and Colleen	Yes	250	Month
+9613	8050	1	2	2	1	520	7/26/2009	General	Latario, Brian and Colleen	Yes	250	Month
+9740	8050	1	2	4	1	520.00	1/18/2010	General	Latario, Brian and Colleen	Yes	250	Month
+9763	8050	1	3	1	1	320.00	1/18/2010	General	Latario, Brian and Colleen	Yes	250	Month
+9794	8050	1	3	2	1	210.00	1/18/2010	General	Latario, Brian and Colleen	Yes	250	Month
+9806	8050	1	3	3	1	210.00	1/18/2010	General	Latario, Brian and Colleen	Yes	250	Month
+9832	8050	1	3	4	1	210.00	1/18/2010	General	Latario, Brian and Colleen	Yes	250	Month
+9851	8050	1	3	5	1	4490.00	1/18/2010	General	Latario, Brian and Colleen	Yes	250	Month
+9878	8050	2	1	1	1	270.00	1/18/2010	General	Latario, Brian and Colleen	Yes	250	Month
+9923	8050	2	1	2	1	270.75	1/18/2010	General	Latario, Brian and Colleen	Yes	250	Month
+9924	8050	2	1	2	3	100.00	1/18/2010	Annie Armstrong	Latario, Brian and Colleen	Yes	250	Month
+9956	8050	2	1	3	1	270.00	1/18/2010	General	Latario, Brian and Colleen	Yes	250	Month
+9973	8050	2	1	4	1	310.00	1/18/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10006	8050	2	2	1	1	200.00	1/18/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10007	8050	2	2	1	6	500.00	1/18/2010	Forward in Faith	Latario, Brian and Colleen	Yes	250	Month
+10041	8050	2	2	2	1	200.00	1/18/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10086	8050	2	2	4	1	200.00	1/18/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10087	8050	2	2	4	44	100.00	1/18/2010	Youth	Latario, Brian and Colleen	Yes	250	Month
+10112	8050	2	2	5	1	485.00	1/18/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10113	8050	2	2	5	6	250.00	1/18/2010	Forward in Faith	Latario, Brian and Colleen	Yes	250	Month
+10139	8050	2	3	1	1	250.00	1/18/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10173	8050	2	3	2	1	250.00	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10212	8050	2	3	3	1	20.00	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10213	8050	2	3	3	6	21.00	1/19/2010	Forward in Faith	Latario, Brian and Colleen	Yes	250	Month
+10223	8050	2	3	4	1	510.00	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10224	8050	2	3	4	6	250.00	1/19/2010	Forward in Faith	Latario, Brian and Colleen	Yes	250	Month
+10259	8050	3	1	1	1	250.00	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10327	8050	3	1	2	1	250.00	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10328	8050	3	1	2	44	300.00	1/19/2010	Youth	Latario, Brian and Colleen	Yes	250	Month
+10337	8050	3	1	3	1	250.00	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10410	8050	3	2	1	1	200.00	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10409	8050	3	2	1	1	270.00	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10411	8050	3	2	1	6	250.00	1/19/2010	Forward in Faith	Latario, Brian and Colleen	Yes	250	Month
+10434	8050	3	2	2	1	200.00	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10491	8050	3	2	4	1	400.00	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10510	8050	3	2	5	1	240.00	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10511	8050	3	2	5	6	250.00	1/19/2010	Forward in Faith	Latario, Brian and Colleen	Yes	250	Month
+10548	8050	3	3	1	1	250.00	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10578	8050	3	3	2	1	250.	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10626	8050	3	3	4	1	525.	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10627	8050	3	3	4	6	250	1/19/2010	Forward in Faith	Latario, Brian and Colleen	Yes	250	Month
+10687	8050	4	1	1	1	250	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10704	8050	4	1	2	62	575.26	1/19/2010	Ukraine Trip	Latario, Brian and Colleen	Yes	250	Month
+10763	8050	4	1	3	1	500	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10798	8050	4	1	4	1	265	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10797	8050	4	1	4	6	250	1/19/2010	Forward in Faith	Latario, Brian and Colleen	Yes	250	Month
+10806	8050	4	2	1	1	200	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10857	8050	4	2	2	1	200	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10894	8050	4	2	3	1	200	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10945	8050	4	2	5	1	440	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+10946	8050	4	2	5	6	250	1/19/2010	Forward in Faith	Latario, Brian and Colleen	Yes	250	Month
+11001	8050	4	3	1	1	250	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+11045	8050	4	3	2	1	250	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+11048	8050	4	3	3	1	250	1/19/2010	General	Latario, Brian and Colleen	Yes	250	Month
+11049	8050	4	3	3	44	60	1/19/2010	Youth	Latario, Brian and Colleen	Yes	250	Month
+9536	8051	1	1	1	1	40	1/4/2009	General	Feather, Jason and Laura	Yes	25	Week
+9521	8051	1	1	1	1	50	1/4/2009	General	Feather, Jason and Laura	Yes	25	Week
+9568	8051	1	1	4	1	60.	7/26/2009	General	Feather, Jason and Laura	Yes	25	Week
+9592	8051	1	2	1	1	60	7/26/2009	General	Feather, Jason and Laura	Yes	25	Week
+9619	8051	1	2	2	1	60	7/26/2009	General	Feather, Jason and Laura	Yes	25	Week
+9641	8051	1	2	3	1	60	7/26/2009	General	Feather, Jason and Laura	Yes	25	Week
+9667	8051	1	2	4	1	60	7/26/2009	General	Feather, Jason and Laura	Yes	25	Week
+9768	8051	1	3	1	1	50.00	1/18/2010	General	Feather, Jason and Laura	Yes	25	Week
+9795	8051	1	3	2	1	10.00	1/18/2010	General	Feather, Jason and Laura	Yes	25	Week
+9811	8051	1	3	3	1	20.00	1/18/2010	General	Feather, Jason and Laura	Yes	25	Week
+9833	8051	1	3	4	1	50.00	1/18/2010	General	Feather, Jason and Laura	Yes	25	Week
+9852	8051	1	3	5	1	50.00	1/18/2010	General	Feather, Jason and Laura	Yes	25	Week
+9882	8051	2	1	1	1	50.00	1/18/2010	General	Feather, Jason and Laura	Yes	25	Week
+9916	8051	2	1	2	1	50.00	1/18/2010	General	Feather, Jason and Laura	Yes	25	Week
+9950	8051	2	1	3	1	50.00	1/18/2010	General	Feather, Jason and Laura	Yes	25	Week
+9976	8051	2	1	4	1	50.00	1/18/2010	General	Feather, Jason and Laura	Yes	25	Week
+9977	8051	2	1	4	6	50.00	1/18/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+9989	8051	2	2	1	1	50.00	1/18/2010	General	Feather, Jason and Laura	Yes	25	Week
+9990	8051	2	2	1	6	50.00	1/18/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10025	8051	2	2	2	1	50.00	1/18/2010	General	Feather, Jason and Laura	Yes	25	Week
+10026	8051	2	2	2	6	50.00	1/18/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10051	8051	2	2	3	1	40.00	1/18/2010	General	Feather, Jason and Laura	Yes	25	Week
+10050	8051	2	2	3	6	20.00	1/18/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10090	8051	2	2	4	1	40.00	1/18/2010	General	Feather, Jason and Laura	Yes	25	Week
+10091	8051	2	2	4	6	40.00	1/18/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10166	8051	2	3	2	1	50.25	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10167	8051	2	3	2	6	24.75	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10197	8051	2	3	3	1	50.00	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10196	8051	2	3	3	6	25.00	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10235	8051	2	3	4	1	50.00	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10234	8051	2	3	4	6	25.00	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10298	8051	3	1	2	1	40.00	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10296	8051	3	1	2	1	50.00	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10295	8051	3	1	2	6	25.00	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10299	8051	3	1	2	6	40.00	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10367	8051	3	1	4	1	35.00	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10368	8051	3	1	4	6	25.00	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10401	8051	3	2	1	1	50.00	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10400	8051	3	2	1	6	30.00	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10468	8051	3	2	3	1	25.00	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10469	8051	3	2	3	6	25.00	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10486	8051	3	2	4	1	35.00	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10487	8051	3	2	4	6	25.00	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10521	8051	3	2	5	1	35	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10522	8051	3	2	5	6	35	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10564	8051	3	3	1	1	35.00	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10563	8051	3	3	1	6	35.	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10586	8051	3	3	2	1	40	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10585	8051	3	3	2	6	30	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10610	8051	3	3	3	1	40	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10611	8051	3	3	3	6	30	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10683	8051	4	1	1	1	35.	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10684	8051	4	1	1	6	35.	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10714	8051	4	1	2	1	35	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10713	8051	4	1	2	6	35	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10769	8051	4	1	4	1	35	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10770	8051	4	1	4	6	35	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10819	8051	4	2	1	1	35	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10818	8051	4	2	1	6	35	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10847	8051	4	2	2	1	35.	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10848	8051	4	2	2	6	35.	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10873	8051	4	2	3	1	35.00	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10872	8051	4	2	3	6	35	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10928	8051	4	2	4	1	70	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10965	8051	4	2	5	1	35	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10966	8051	4	2	5	6	35	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+10989	8051	4	3	1	1	35	1/19/2010	General	Feather, Jason and Laura	Yes	25	Week
+10988	8051	4	3	1	6	35	1/19/2010	Forward in Faith	Feather, Jason and Laura	Yes	25	Week
+9502	8052	1	1	1	1	274.65	1/4/2009	General	Taylor, Sam and Deanne 	Yes		
+9587	8052	1	1	4	1	161	7/26/2009	General	Taylor, Sam and Deanne 	Yes	15000	Total
+9615	8052	1	2	2	1	584.50	7/26/2009	General	Taylor, Sam and Deanne 	Yes	15000	Total
+9700	8052	1	2	3	1	37.50	1/18/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+9631	8052	1	2	3	1	37.50	7/26/2009	General	Taylor, Sam and Deanne 	Yes	15000	Total
+9744	8052	1	2	4	1	37.50	1/18/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+9769	8052	1	3	1	1	352.00	1/18/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+9783	8052	1	3	2	1	152.00	1/18/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+9896	8052	2	1	1	1	499.50	1/18/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+9897	8052	2	1	1	63	200.00	1/18/2010	Jose Garcia	Taylor, Sam and Deanne 	Yes	15000	Total
+9931	8052	2	1	2	1	47.50	1/18/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+9972	8052	2	1	4	1	77.00	1/18/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+10003	8052	2	2	1	1	200.00	1/18/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+10046	8052	2	2	2	1	337.00	1/18/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+10055	8052	2	2	3	1	74.00	1/18/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+10056	8052	2	2	3	44	50.00	1/18/2010	Youth	Taylor, Sam and Deanne 	Yes	15000	Total
+10123	8052	2	2	5	1	50.00	1/18/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+10124	8052	2	2	5	44	50.00	1/18/2010	Youth	Taylor, Sam and Deanne 	Yes	15000	Total
+10160	8052	2	3	1	1	537.00	1/18/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+10301	8052	3	1	2	1	500.00	1/19/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+10391	8052	3	2	1	1	537.00	1/19/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+10552	8052	3	3	1	1	670.	1/19/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+10581	8052	3	3	2	1	44.50	1/19/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+10642	8052	3	3	4	1	155	1/19/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+10672	8052	4	1	1	1	200	1/19/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+10803	8052	4	2	1	1	537.	1/19/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+10975	8052	4	3	1	1	537	1/19/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+11006	8052	4	3	2	1	100	1/19/2010	General	Taylor, Sam and Deanne 	Yes	15000	Total
+11105	8052	4	3	4	2	200	1/19/2010	Lottie Moon	Taylor, Sam and Deanne 	Yes	15000	Total
+9545	8055	1	1	3	1	650.00	7/26/2009	General	Patterson, Ken and Rita	Yes	0.00	Total
+9652	8055	1	2	4	1	650	7/26/2009	General	Patterson, Ken and Rita	Yes	0.00	Total
+9798	8055	1	3	3	1	650.00	1/18/2010	General	Patterson, Ken and Rita	Yes	0.00	Total
+11114	8055	2	1	2	1	650	1/19/2010	General	Patterson, Ken and Rita	Yes	0.00	Total
+9690	8055	2	1	2	1	650.00	8/17/2009	General	Patterson, Ken and Rita	Yes	0.00	Total
+11115	8055	2	2	3	1	650	1/19/2010	General	Patterson, Ken and Rita	Yes	0.00	Total
+9691	8055	2	2	3	1	650.00	8/17/2009	General	Patterson, Ken and Rita	Yes	0.00	Total
+11118	8055	2	3	2	1	650	1/19/2010	General	Patterson, Ken and Rita	Yes	0.00	Total
+9686	8055	2	3	2	1	650	8/17/2009	General	Patterson, Ken and Rita	Yes	0.00	Total
+9515	8059	1	1	1	1	10	1/4/2009	General	Fraser, Marty	Yes		
+9576	8059	1	1	4	1	30	7/26/2009	General	Fraser, Marty	Yes	3000	Total
+9597	8059	1	2	1	1	10	7/26/2009	General	Fraser, Marty	Yes	3000	Total
+9624	8059	1	2	2	1	10	7/26/2009	General	Fraser, Marty	Yes	3000	Total
+9629	8059	1	2	3	5	20	7/26/2009	Benevolence	Fraser, Marty	Yes	3000	Total
+9698	8059	1	2	3	5	20.00	1/18/2010	Benevolence	Fraser, Marty	Yes	3000	Total
+9669	8059	1	2	4	1	20	7/26/2009	General	Fraser, Marty	Yes	3000	Total
+9738	8059	1	2	4	1	20.00	1/18/2010	General	Fraser, Marty	Yes	3000	Total
+9822	8059	1	3	3	1	10.00	1/18/2010	General	Fraser, Marty	Yes	3000	Total
+9823	8059	1	3	3	1	10.00	1/18/2010	General	Fraser, Marty	Yes	3000	Total
+9840	8059	1	3	4	1	10.00	1/18/2010	General	Fraser, Marty	Yes	3000	Total
+9864	8059	1	3	5	1	10.00	1/18/2010	General	Fraser, Marty	Yes	3000	Total
+9892	8059	2	1	1	1	10.00	1/18/2010	General	Fraser, Marty	Yes	3000	Total
+9912	8059	2	1	2	1	10.00	1/18/2010	General	Fraser, Marty	Yes	3000	Total
+9940	8059	2	1	3	1	10.00	1/18/2010	General	Fraser, Marty	Yes	3000	Total
+9975	8059	2	1	4	1	10.00	1/18/2010	General	Fraser, Marty	Yes	3000	Total
+9997	8059	2	2	1	1	10.00	1/18/2010	General	Fraser, Marty	Yes	3000	Total
+10032	8059	2	2	2	1	10.00	1/18/2010	General	Fraser, Marty	Yes	3000	Total
+10058	8059	2	2	3	1	10.00	1/18/2010	General	Fraser, Marty	Yes	3000	Total
+10099	8059	2	2	4	1	10.00	1/18/2010	General	Fraser, Marty	Yes	3000	Total
+10128	8059	2	2	5	1	10.00	1/18/2010	General	Fraser, Marty	Yes	3000	Total
+10147	8059	2	3	1	1	10.00	1/18/2010	General	Fraser, Marty	Yes	3000	Total
+10189	8059	2	3	3	1	20.00	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10244	8059	2	3	4	1	10.00	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10277	8059	3	1	1	1	10.00	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10300	8059	3	1	2	1	10.00	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10351	8059	3	1	3	1	10.00	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10352	8059	3	1	3	1	3000.00	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10374	8059	3	1	4	1	10.00	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10412	8059	3	2	1	1	10.00	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10435	8059	3	2	2	1	10.00	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10462	8059	3	2	3	1	10.00	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10507	8059	3	2	4	1	10.00	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10516	8059	3	2	5	1	10	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10545	8059	3	3	1	1	10	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10595	8059	3	3	2	1	10.	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10644	8059	3	3	4	1	20	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10674	8059	4	1	1	1	10	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10726	8059	4	1	2	1	10	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10734	8059	4	1	3	1	10	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10745	8059	4	1	3	1	35	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10744	8059	4	1	3	6	35	1/19/2010	Forward in Faith	Fraser, Marty	Yes	3000	Total
+10776	8059	4	1	4	1	10	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10825	8059	4	2	1	1	10	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10853	8059	4	2	2	1	10	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10899	8059	4	2	3	1	10	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10922	8059	4	2	4	1	10	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10954	8059	4	2	5	1	10	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+10982	8059	4	3	1	1	10	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+11023	8059	4	3	2	1	10	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+11053	8059	4	3	3	1	10	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+11099	8059	4	3	4	1	10.00	1/19/2010	General	Fraser, Marty	Yes	3000	Total
+9511	8061	1	1	1	2	35	1/4/2009	Lottie Moon	Giver, Unknown	Yes		
+9588	8062	1	2	1	6	40	7/26/2009	Forward in Faith	Rungu, Rosemary	Yes	15000	Total
+9761	8062	1	3	1	1	70.00	1/18/2010	General	Rungu, Rosemary	Yes	10000	Total
+9888	8062	2	1	1	1	60.00	1/18/2010	General	Rungu, Rosemary	Yes	260	Year
+9900	8062	2	1	1	5	50.00	1/18/2010	Benevolence	Rungu, Rosemary	Yes	Month	Month
+9920	8062	2	1	2	1	22.00	1/18/2010	General	Rungu, Rosemary	Yes	13800.	Total
+9954	8062	2	1	3	1	60.00	1/18/2010	General	Rungu, Rosemary	Yes	10000	Total
+10031	8062	2	2	2	1	25.00	1/18/2010	General	Rungu, Rosemary	Yes	0  	Total
+10094	8062	2	2	4	1	15.00	1/18/2010	General	Rungu, Rosemary	Yes	10	Week
+10176	8062	2	3	2	6	20.00	1/19/2010	Forward in Faith	Rungu, Rosemary	Yes	200	Week
+10473	8062	3	2	3	6	130.00	1/19/2010	Forward in Faith	Rungu, Rosemary	Yes	86.67	Month
+10497	8062	3	2	4	6	20.00	1/19/2010	Forward in Faith	Rungu, Rosemary	Yes	200	Week
+10576	8062	3	3	2	1	50.00	1/19/2010	General	Rungu, Rosemary	Yes		
+10645	8062	3	3	4	1	65.	1/19/2010	General	Rungu, Rosemary	Yes	3000	Total
+10646	8062	3	3	4	6	30	1/19/2010	Forward in Faith	Rungu, Rosemary	Yes		
+10923	8062	4	2	4	1	85	1/19/2010	General	Rungu, Rosemary	Yes	3000	Total
+10040	8063	2	2	2	1	53.00	1/18/2010	General	Latario, Rachel	Yes	10.00	Month
+10136	8063	2	3	1	1	13.00	1/18/2010	General	Latario, Rachel	Yes	250	Month
+10172	8063	2	3	2	6	28.00	1/19/2010	Forward in Faith	Latario, Rachel	Yes	32.50	Week
+10279	8063	3	1	1	6	51.00	1/19/2010	Forward in Faith	Latario, Rachel	Yes	5	Month
+10453	8063	3	2	2	1	45.00	1/19/2010	General	Latario, Rachel	Yes	15	Month
+9517	8064	1	1	1	1	300	1/4/2009	General	Martin, Matt and Erin	Yes		
+9539	8064	1	1	2	1	380.00	7/26/2009	General	Martin, Matt and Erin	Yes	200	Month
+9596	8064	1	2	1	1	400	7/26/2009	General	Martin, Matt and Erin	Yes	200	Month
+9627	8064	1	2	3	1	630	7/26/2009	General	Martin, Matt and Erin	Yes	200	Month
+9743	8064	1	2	4	1	70.00	1/18/2010	General	Martin, Matt and Erin	Yes	200	Month
+9674	8064	1	2	4	6	70	7/26/2009	Forward in Faith	Martin, Matt and Erin	Yes	200	Month
+9755	8064	1	3	1	1	300.00	1/18/2010	General	Martin, Matt and Erin	Yes	200	Month
+9756	8064	1	3	1	6	120.00	1/18/2010	Forward in Faith	Martin, Matt and Erin	Yes	200	Month
+9813	8064	1	3	3	1	400.00	1/18/2010	General	Martin, Matt and Erin	Yes	200	Month
+9814	8064	1	3	3	6	70.00	1/18/2010	Forward in Faith	Martin, Matt and Erin	Yes	200	Month
+9861	8064	1	3	5	1	200.00	1/18/2010	General	Martin, Matt and Erin	Yes	200	Month
+9862	8064	1	3	5	6	40.00	1/18/2010	Forward in Faith	Martin, Matt and Erin	Yes	200	Month
+9893	8064	2	1	1	1	162.00	1/18/2010	General	Martin, Matt and Erin	Yes	200	Month
+9903	8064	2	1	1	5	20.00	1/18/2010	Benevolence	Martin, Matt and Erin	Yes	200	Month
+9947	8064	2	1	3	1	300.00	1/18/2010	General	Martin, Matt and Erin	Yes	200	Month
+9948	8064	2	1	3	6	80.00	1/18/2010	Forward in Faith	Martin, Matt and Erin	Yes	200	Month
+9999	8064	2	2	1	1	300.00	1/18/2010	General	Martin, Matt and Erin	Yes	200	Month
+10000	8064	2	2	1	6	120.00	1/18/2010	Forward in Faith	Martin, Matt and Erin	Yes	200	Month
+10052	8064	2	2	3	1	260.00	1/18/2010	General	Martin, Matt and Erin	Yes	200	Month
+10049	8064	2	2	3	6	180.00	1/18/2010	Forward in Faith	Martin, Matt and Erin	Yes	200	Month
+10156	8064	2	3	1	1	430.00	1/18/2010	General	Martin, Matt and Erin	Yes	200	Month
+10157	8064	2	3	1	6	260.00	1/18/2010	Forward in Faith	Martin, Matt and Erin	Yes	200	Month
+10321	8064	3	1	2	1	280.00	1/19/2010	General	Martin, Matt and Erin	Yes	200	Month
+10323	8064	3	1	2	6	130.00	1/19/2010	Forward in Faith	Martin, Matt and Erin	Yes	200	Month
+10322	8064	3	1	2	6	70.00	1/19/2010	Forward in Faith	Martin, Matt and Erin	Yes	200	Month
+10506	8064	3	2	4	6	400.00	1/19/2010	Forward in Faith	Martin, Matt and Erin	Yes	200	Month
+10598	8064	3	3	2	1	200	1/19/2010	General	Martin, Matt and Erin	Yes	200	Month
+10719	8064	4	1	2	44	25	1/19/2010	Youth	Martin, Matt and Erin	Yes	200	Month
+10756	8064	4	1	3	6	400	1/19/2010	Forward in Faith	Martin, Matt and Erin	Yes	200	Month
+10834	8064	4	2	2	1	300	1/19/2010	General	Martin, Matt and Erin	Yes	200	Month
+10835	8064	4	2	2	6	150	1/19/2010	Forward in Faith	Martin, Matt and Erin	Yes	200	Month
+10961	8064	4	2	5	6	150	1/19/2010	Forward in Faith	Martin, Matt and Erin	Yes	200	Month
+11096	8064	4	3	4	1	370	1/19/2010	General	Martin, Matt and Erin	Yes	200	Month
+10184	8067	2	3	2	1	10.00	1/19/2010	General	Rowe, Magalie	Yes	40	Month
+10230	8067	2	3	4	1	15.00	1/19/2010	General	Rowe, Magalie	Yes	260	Year
+9750	8068	1	3	1	1	50.00	1/18/2010	General	Hansly, Bob and Peg	Yes	100	Month
+9774	8068	1	3	2	1	50.00	1/18/2010	General	Hansly, Bob and Peg	Yes	100	Month
+9854	8068	1	3	5	1	40.00	1/18/2010	General	Hansly, Bob and Peg	Yes	100	Month
+9885	8068	2	1	1	1	25.00	1/18/2010	General	Hansly, Bob and Peg	Yes	100	Month
+9917	8068	2	1	2	1	25.00	1/18/2010	General	Hansly, Bob and Peg	Yes	100	Month
+10027	8068	2	2	2	1	50.00	1/18/2010	General	Hansly, Bob and Peg	Yes	100	Month
+10065	8068	2	2	3	1	25.00	1/18/2010	General	Hansly, Bob and Peg	Yes	100	Month
+10103	8068	2	2	4	1	25.00	1/18/2010	General	Hansly, Bob and Peg	Yes	100	Month
+10338	8068	3	1	3	1	50.00	1/19/2010	General	Hansly, Bob and Peg	Yes	100	Month
+10366	8068	3	1	4	1	25.00	1/19/2010	General	Hansly, Bob and Peg	Yes	100	Month
+10402	8068	3	2	1	1	25.00	1/19/2010	General	Hansly, Bob and Peg	Yes	100	Month
+10490	8068	3	2	4	1	55.00	1/19/2010	General	Hansly, Bob and Peg	Yes	100	Month
+10523	8068	3	2	5	1	25.	1/19/2010	General	Hansly, Bob and Peg	Yes	100	Month
+10561	8068	3	3	1	1	25.	1/19/2010	General	Hansly, Bob and Peg	Yes	100	Month
+10562	8068	3	3	1	6	108.34	1/19/2010	Forward in Faith	Hansly, Bob and Peg	Yes	100	Month
+10647	8068	3	3	4	1	50	1/19/2010	General	Hansly, Bob and Peg	Yes	100	Month
+10686	8068	4	1	1	1	25	1/19/2010	General	Hansly, Bob and Peg	Yes	100	Month
+10685	8068	4	1	1	6	108.34	1/19/2010	Forward in Faith	Hansly, Bob and Peg	Yes	100	Month
+10715	8068	4	1	2	1	25	1/19/2010	General	Hansly, Bob and Peg	Yes	100	Month
+10816	8068	4	2	1	1	50	1/19/2010	General	Hansly, Bob and Peg	Yes	100	Month
+10817	8068	4	2	1	6	108.34	1/19/2010	Forward in Faith	Hansly, Bob and Peg	Yes	100	Month
+10851	8068	4	2	2	1	25.	1/19/2010	General	Hansly, Bob and Peg	Yes	100	Month
+11011	8068	4	3	2	1	100	1/19/2010	General	Hansly, Bob and Peg	Yes	100	Month
+11012	8068	4	3	2	6	108.34	1/19/2010	Forward in Faith	Hansly, Bob and Peg	Yes	100	Month
+9583	8069	1	1	4	1	25.	7/26/2009	General	Bartlett, Nancy	Yes	25	Week
+9653	8069	1	2	4	1	25.	7/26/2009	General	Bartlett, Nancy	Yes	25	Week
+9722	8069	1	2	4	1	25.00	1/18/2010	General	Bartlett, Nancy	Yes	25	Week
+9824	8069	1	3	3	1	25.00	1/18/2010	General	Bartlett, Nancy	Yes	25	Week
+9834	8069	1	3	4	1	10.00	1/18/2010	General	Bartlett, Nancy	Yes	25	Week
+9835	8069	1	3	4	1	25.00	1/18/2010	General	Bartlett, Nancy	Yes	25	Week
+9915	8069	2	1	2	1	25.00	1/18/2010	General	Bartlett, Nancy	Yes	25	Week
+10110	8069	2	2	5	1	25.00	1/18/2010	General	Bartlett, Nancy	Yes	25	Week
+10252	8069	2	3	4	1	25.00	1/19/2010	General	Bartlett, Nancy	Yes	25	Week
+10253	8069	2	3	4	6	25.00	1/19/2010	Forward in Faith	Bartlett, Nancy	Yes	25	Week
+10225	8069	2	3	4	6	40.00	1/19/2010	Forward in Faith	Bartlett, Nancy	Yes	25	Week
+10329	8069	3	1	2	44	230.00	1/19/2010	Youth	Bartlett, Nancy	Yes	25	Week
+10330	8069	3	1	2	6	25.00	1/19/2010	Forward in Faith	Bartlett, Nancy	Yes	25	Week
+10355	8069	3	1	4	1	25.00	1/19/2010	General	Bartlett, Nancy	Yes	25	Week
+10356	8069	3	1	4	6	100.00	1/19/2010	Forward in Faith	Bartlett, Nancy	Yes	25	Week
+10513	8069	3	2	5	1	25.00	1/19/2010	General	Bartlett, Nancy	Yes	25	Week
+10538	8069	3	2	5	6	25.	1/19/2010	Forward in Faith	Bartlett, Nancy	Yes	25	Week
+10512	8069	3	2	5	6	25.00	1/19/2010	Forward in Faith	Bartlett, Nancy	Yes	25	Week
+10539	8069	3	2	5	6	25.00	1/19/2010	Forward in Faith	Bartlett, Nancy	Yes	25	Week
+10620	8069	3	3	3	1	25	1/19/2010	General	Bartlett, Nancy	Yes	25	Week
+10619	8069	3	3	3	6	75.00	1/19/2010	Forward in Faith	Bartlett, Nancy	Yes	25	Week
+10655	8069	3	3	4	1	25.	1/19/2010	General	Bartlett, Nancy	Yes	25	Week
+10660	8069	4	1	1	1	25	1/19/2010	General	Bartlett, Nancy	Yes	25	Week
+10661	8069	4	1	1	6	25.00	1/19/2010	Forward in Faith	Bartlett, Nancy	Yes	25	Week
+10701	8069	4	1	2	1	25	1/19/2010	General	Bartlett, Nancy	Yes	25	Week
+10702	8069	4	1	2	6	25	1/19/2010	Forward in Faith	Bartlett, Nancy	Yes	25	Week
+10831	8069	4	2	2	1	75	1/19/2010	General	Bartlett, Nancy	Yes	25	Week
+10832	8069	4	2	2	6	75	1/19/2010	Forward in Faith	Bartlett, Nancy	Yes	25	Week
+10897	8069	4	2	3	1	25	1/19/2010	General	Bartlett, Nancy	Yes	25	Week
+10896	8069	4	2	3	6	50	1/19/2010	Forward in Faith	Bartlett, Nancy	Yes	25	Week
+10929	8069	4	2	4	1	25	1/19/2010	General	Bartlett, Nancy	Yes	25	Week
+10930	8069	4	2	4	6	25	1/19/2010	Forward in Faith	Bartlett, Nancy	Yes	25	Week
+11007	8069	4	3	2	1	50	1/19/2010	General	Bartlett, Nancy	Yes	25	Week
+11008	8069	4	3	2	2	20	1/19/2010	Lottie Moon	Bartlett, Nancy	Yes	25	Week
+11009	8069	4	3	2	6	75	1/19/2010	Forward in Faith	Bartlett, Nancy	Yes	25	Week
+11071	8069	4	3	4	1	50	1/19/2010	General	Bartlett, Nancy	Yes	25	Week
+11072	8069	4	3	4	6	50	1/19/2010	Forward in Faith	Bartlett, Nancy	Yes	25	Week
+10285	8075	3	1	1	6	10.00	1/19/2010	Forward in Faith	Taylor, Joanna	Yes	10.00	Month
+10286	8075	3	1	11 	1	11.00	1/19/2010	General	Taylor, Joanna	Yes	10.00	Month
+10397	8075	3	2	1	1	25.00	1/19/2010	General	Taylor, Joanna	Yes	10.00	Month
+10396	8075	3	2	1	6	5.00	1/19/2010	Forward in Faith	Taylor, Joanna	Yes	10.00	Month
+11123	8075	3	3	1	6	15	1/19/2010	Forward in Faith	Taylor, Joanna	Yes	10.00	Month
+11125	8075	3	3	3	6	15	1/19/2010	Forward in Faith	Taylor, Joanna	Yes	10.00	Month
+11128	8075	4	2	4	6	15	1/19/2010	Forward in Faith	Taylor, Joanna	Yes	10.00	Month
+11131	8075	4	3	3	6	15	1/19/2010	Forward in Faith	Taylor, Joanna	Yes	10.00	Month
+11130	8075	4	3	3	6	22	1/19/2010	Forward in Faith	Taylor, Joanna	Yes	10.00	Month
+10840	8077	4	2	2	6	20	1/19/2010	Forward in Faith	Shekleton, Justin	Yes	200	Week
+10932	8077	4	2	4	1	20	1/19/2010	General	Shekleton, Justin	Yes		
+10931	8077	4	2	4	6	20	1/19/2010	Forward in Faith	Shekleton, Justin	Yes	25	Week
+10983	8077	4	3	1	6	20	1/19/2010	Forward in Faith	Shekleton, Justin	Yes	3000	Total
+11047	8077	4	3	2	2	40	1/19/2010	Lottie Moon	Shekleton, Justin	Yes	13800.	Total
+11092	8077	4	3	4	1	10	1/19/2010	General	Shekleton, Justin	Yes		
+11091	8077	4	3	4	6	10	1/19/2010	Forward in Faith	Shekleton, Justin	Yes	3500	Year
+9582	8078	1	1	4	1	10	7/26/2009	General	Fiasconaro, Frank and Connie	Yes	50	Week
+10324	8078	3	1	2	6	100.00	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+10333	8078	3	1	3	6	50.00	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+10417	8078	3	2	1	6	50.00	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+10419	8078	3	2	1	6	50.00	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+10424	8078	3	2	2	6	50.00	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+10481	8078	3	2	3	6	50.00	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+10492	8078	3	2	4	6	50.00	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+10536	8078	3	2	5	6	50.	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+10571	8078	3	3	1	6	50.	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+10593	8078	3	3	2	6	50.	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+10600	8078	3	3	3	6	50.	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+10623	8078	3	3	4	6	50.00	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+10730	8078	4	1	2	6	50	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+10731	8078	4	1	2	6	50	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+10733	8078	4	1	3	6	50	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+10765	8078	4	1	4	6	50	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+10801	8078	4	2	1	6	50	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+10864	8078	4	2	2	6	50	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+10887	8078	4	2	3	6	50	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+10924	8078	4	2	4	1	25	1/19/2010	General	Fiasconaro, Frank and Connie	Yes	50	Week
+10901	8078	4	2	4	6	50.00	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+11042	8078	4	3	2	6	100	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+11041	8078	4	3	2	6	50	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+11100	8078	4	3	4	1	50	1/19/2010	General	Fiasconaro, Frank and Connie	Yes	50	Week
+11073	8078	4	3	4	6	100	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+11110	8078	4	3	4	6	50	1/19/2010	Forward in Faith	Fiasconaro, Frank and Connie	Yes	50	Week
+10217	8079	2	3	3	1	250.00	1/19/2010	General	Stake, Joel and Kristi	Yes	250	Month
+10380	8079	3	2	1	1	250.00	1/19/2010	General	Stake, Joel and Kristi	Yes	10000	Total
+10501	8079	3	2	4	1	250.00	1/19/2010	General	Stake, Joel and Kristi	Yes	100	Month
+10618	8079	3	3	3	1	250	1/19/2010	General	Stake, Joel and Kristi	Yes	100	Month
+10703	8079	4	1	2	1	250	1/19/2010	General	Stake, Joel and Kristi	Yes	25	Week
+10972	8079	4	3	1	1	250	1/19/2010	General	Stake, Joel and Kristi	Yes	500	Month
+9563	8083	1	1	4	1	100	7/26/2009	General	Jopling, Lynda	Yes	50	Month
+9797	8083	1	3	2	1	100.00	1/18/2010	General	Jopling, Lynda	Yes	0  	Total
+10237	8083	2	3	4	1	100.00	1/19/2010	General	Jopling, Lynda	Yes	10	Week
+10359	8083	3	1	4	1	100.00	1/19/2010	General	Jopling, Lynda	Yes	15	Month
+10406	8083	3	2	1	6	200.00	1/19/2010	Forward in Faith	Jopling, Lynda	Yes	500	Month
+10697	8083	4	1	2	1	200	1/19/2010	General	Jopling, Lynda	Yes		
+10812	8083	4	2	1	1	100	1/19/2010	General	Jopling, Lynda	Yes	10000	Total
+10866	8083	4	2	2	19	50	1/19/2010	Love Offering	Jopling, Lynda	Yes	15	Month
+10906	8083	4	2	4	1	100.	1/19/2010	General	Jopling, Lynda	Yes	3500	Year
+11075	8083	4	3	4	1	100	1/19/2010	General	Jopling, Lynda	Yes		
+11076	8083	4	3	4	2	50	1/19/2010	Lottie Moon	Jopling, Lynda	Yes		
+10249	8086	2	3	4	6	25.00	1/19/2010	Forward in Faith	Surtees, Robert	Yes	100	Month
+10968	8086	4	2	5	6	200	1/19/2010	Forward in Faith	Surtees, Robert	Yes	100	Month
+10254	8087	2	3	4	6	500.00	1/19/2010	Forward in Faith	Alford, Michael	Yes	500	Total
+10472	8090	3	2	3	6	100.00	1/19/2010	Forward in Faith	Ogagan, Prisalla	Yes	86.67	Month
+9868	8091	2	1	1	1	100.00	1/18/2010	General	O Donnell, John	Yes	40	Week
+9944	8091	2	1	3	1	100.00	1/18/2010	General	O Donnell, John	Yes		
+9943	8091	2	1	3	1	100.00	1/18/2010	General	O Donnell, John	Yes	250	Month
+10001	8091	2	2	1	1	200.00	1/18/2010	General	O Donnell, John	Yes	200	Month
+9858	8092	1	3	5	1	2448.69	1/18/2010	General	Powell, Aaron	Yes	260	Year
+10292	8092	3	1	1	1	2550.92	1/19/2010	General	Powell, Aaron	Yes	500	Month
+10888	8092	4	2	3	1	3279.58	1/19/2010	General	Powell, Aaron	Yes	50	Week
+9905	8093	2	1	1	3	200.00	1/18/2010	Annie Armstrong	Morgan, Tonette	Yes		
+9904	8093	2	1	1	5	400.00	1/18/2010	Benevolence	Morgan, Tonette	Yes	200	Month
+9929	8093	2	1	2	1	400.00	1/18/2010	General	Morgan, Tonette	Yes	32.50	Week
+9930	8093	2	1	2	5	100.00	1/18/2010	Benevolence	Morgan, Tonette	Yes		
+9963	8093	2	1	4	1	262.90	1/18/2010	General	Morgan, Tonette	Yes	10.00	Month
+10076	8093	2	2	3	1	71.10	1/18/2010	General	Morgan, Tonette	Yes	10	Week
+10078	8093	2	2	3	5	200.00	1/18/2010	Benevolence	Morgan, Tonette	Yes		
+10077	8093	2	2	3	6	500.00	1/18/2010	Forward in Faith	Morgan, Tonette	Yes		
+10079	8093	2	2	3	66	200.00	1/18/2010	Pantry	Morgan, Tonette	Yes		
+10081	8093	2	2	4	1	230.00	1/18/2010	General	Morgan, Tonette	Yes	15	Month
+10260	8093	3	1	1	1	426.25	1/19/2010	General	Morgan, Tonette	Yes	250	Month
+10262	8093	3	1	1	5	200.00	1/19/2010	Benevolence	Morgan, Tonette	Yes		
+10261	8093	3	1	1	6	365.88	1/19/2010	Forward in Faith	Morgan, Tonette	Yes		
+10263	8093	3	1	1	66	222.50	1/19/2010	Pantry	Morgan, Tonette	Yes		
+10436	8093	3	2	2	1	252.77	1/19/2010	General	Morgan, Tonette	Yes	3000	Total
+10437	8093	3	2	2	66	200.00	1/19/2010	Pantry	Morgan, Tonette	Yes		
+10656	8093	3	3	4	1	146.50	1/19/2010	General	Morgan, Tonette	Yes	25	Week
+10657	8093	3	3	4	1	200.	1/19/2010	General	Morgan, Tonette	Yes		
+10658	8093	3	3	4	1	56.45	1/19/2010	General	Morgan, Tonette	Yes		
+10705	8093	4	1	2	1	270.55	1/19/2010	General	Morgan, Tonette	Yes	250	Month
+10799	8093	4	2	1	1	600.00	1/19/2010	General	Morgan, Tonette	Yes	250	Month
+10903	8093	4	2	4	1	686.00	1/19/2010	General	Morgan, Tonette	Yes	10	Week
+10015	8095	2	2	1	1	100.00	1/18/2010	General	Chafee, Bruce Barbara	Yes	15	Month
+10047	8097	2	2	2	65	300.00	1/18/2010	Rachel Latario Mission Trip	Godin, Audrey	Yes	15000	Total
+10048	8098	2	2	2	1	25.00	1/18/2010	General	Johnston, Ben	Yes		
+10185	8099	2	3	2	1	200.00	1/19/2010	General	Russell, George	Yes		
+10193	8099	2	3	3	1	100.00	1/19/2010	General	Russell, George	Yes	10000	Total
+10228	8099	2	3	4	1	25.00	1/19/2010	General	Russell, George	Yes	13800.	Total
+10276	8099	3	1	1	1	50.00	1/19/2010	General	Russell, George	Yes	25	Month
+10304	8099	3	1	2	1	45.00	1/19/2010	General	Russell, George	Yes	5	Month
+10388	8099	3	2	1	1	50.00	1/19/2010	General	Russell, George	Yes	15	Month
+10478	8099	3	2	3	1	100.00	1/19/2010	General	Russell, George	Yes	32.50	Week
+10534	8099	3	2	5	1	20.	1/19/2010	General	Russell, George	Yes	15	Month
+10609	8099	3	3	3	1	20	1/19/2010	General	Russell, George	Yes		
+10631	8099	3	3	4	1	30	1/19/2010	General	Russell, George	Yes	10	Week
+10692	8099	4	1	1	1	40	1/19/2010	General	Russell, George	Yes	32.50	Week
+10728	8099	4	1	2	1	20	1/19/2010	General	Russell, George	Yes	200	Week
+10737	8099	4	1	3	1	25	1/19/2010	General	Russell, George	Yes	100	Month
+10779	8099	4	1	4	1	25	1/19/2010	General	Russell, George	Yes	10	Week
+10883	8099	4	2	3	1	25	1/19/2010	General	Russell, George	Yes		
+10186	8100	2	3	2	1	56.00	1/19/2010	General	Fiasconaro, Mark	Yes		
+10218	8102	2	3	3	1	20.00	1/19/2010	General	Nofsinger, Suzuko	Yes		
+10219	8102	2	3	3	1	20.00	1/19/2010	General	Nofsinger, Suzuko	Yes		
+10268	8102	3	1	1	1	20.00	1/19/2010	General	Nofsinger, Suzuko	Yes	100	Month
+10369	8102	3	1	4	1	20.00	1/19/2010	General	Nofsinger, Suzuko	Yes	25	Week
+10357	8102	3	1	4	1	260.00	1/19/2010	General	Nofsinger, Suzuko	Yes	25	Week
+10393	8102	3	2	1	1	20.00	1/19/2010	General	Nofsinger, Suzuko	Yes	10	Week
+10428	8102	3	2	2	1	20.00	1/19/2010	General	Nofsinger, Suzuko	Yes	3500	Year
+10460	8102	3	2	3	1	20.00	1/19/2010	General	Nofsinger, Suzuko	Yes	40	Month
+10484	8102	3	2	4	1	20.00	1/19/2010	General	Nofsinger, Suzuko	Yes	25	Week
+10520	8102	3	2	5	1	20	1/19/2010	General	Nofsinger, Suzuko	Yes	260	Year
+10555	8102	3	3	1	1	20	1/19/2010	General	Nofsinger, Suzuko	Yes	100	Month
+10608	8102	3	3	3	1	20	1/19/2010	General	Nofsinger, Suzuko	Yes	10	Week
+10648	8102	3	3	4	1	20	1/19/2010	General	Nofsinger, Suzuko	Yes	100	Month
+10666	8102	4	1	1	1	20	1/19/2010	General	Nofsinger, Suzuko	Yes	10.00	Month
+10699	8102	4	1	2	1	20	1/19/2010	General	Nofsinger, Suzuko	Yes	15	Month
+10741	8102	4	1	3	1	20	1/19/2010	General	Nofsinger, Suzuko	Yes	10	Week
+10795	8102	4	1	4	62	30	1/19/2010	Ukraine Trip	Nofsinger, Suzuko	Yes	Month	Month
+10862	8102	4	2	2	1	20	1/19/2010	General	Nofsinger, Suzuko	Yes	10	Week
+10882	8102	4	2	3	1	20	1/19/2010	General	Nofsinger, Suzuko	Yes	13800.	Total
+11004	8102	4	3	2	1	20	1/19/2010	General	Nofsinger, Suzuko	Yes	40	Month
+11074	8102	4	3	4	1	20	1/19/2010	General	Nofsinger, Suzuko	Yes	50	Week
+11106	8102	4	3	4	2	10	1/19/2010	Lottie Moon	Nofsinger, Suzuko	Yes	15000	Total
+10294	8103	3	1	1	44	120.00	1/19/2010	Youth	Mullin, Edward  Triska	Yes		
+10353	8104	3	1	3	18	1500.00	1/19/2010	Building Repairs	Pierdolla, Sallie	Yes	3000	Total
+10454	8105	3	2	2	1	20.00	1/19/2010	General	Latario, Brad	Yes		
+10495	8105	3	2	4	1	46.00	1/19/2010	General	Latario, Brad	Yes	25	Month
+10540	8107	3	2	5	1	10.00	1/19/2010	General	Wakefield, Kenneth Heather	Yes	25	Week
+10575	8108	3	3	1	1	50.	1/19/2010	General	Collins, Della	Yes	10000	Total
+10768	8108	4	1	4	1	20	1/19/2010	General	Collins, Della	Yes	5	Month
+10891	8108	4	2	3	1	25	1/19/2010	General	Collins, Della	Yes	10000	Total
+10926	8108	4	2	4	1	25	1/19/2010	General	Collins, Della	Yes	15	Month
+10622	8109	3	3	3	1	190	1/19/2010	General	Beaulie, Diana	Yes	25	Week
+10659	8110	3	3	4	1	50.00	1/19/2010	General	Holladay, Jason	Yes	100	Month
+10952	8110	4	2	5	1	150	1/19/2010	General	Holladay, Jason	Yes	10000	Total
+11013	8110	4	3	2	1	100	1/19/2010	General	Holladay, Jason	Yes	100	Month
+10696	8111	4	1	1	1	100	1/19/2010	General	Gilman, Andrew Tracy	Yes	200	Week
+10830	8111	4	2	1	1	25	1/19/2010	General	Gilman, Andrew Tracy	Yes		
+10829	8111	4	2	1	1	50	1/19/2010	General	Gilman, Andrew Tracy	Yes	500	Month
+10895	8111	4	2	3	1	50	1/19/2010	General	Gilman, Andrew Tracy	Yes	250	Month
+10960	8111	4	2	5	1	50.00	1/19/2010	General	Gilman, Andrew Tracy	Yes	5	Month
+10974	8111	4	3	1	1	50	1/19/2010	General	Gilman, Andrew Tracy	Yes		
+11005	8111	4	3	2	1	50	1/19/2010	General	Gilman, Andrew Tracy	Yes		
+11107	8111	4	3	4	2	100	1/19/2010	Lottie Moon	Gilman, Andrew Tracy	Yes		
+10654	8114	3	3	4	6	50.00	1/19/2010	Forward in Faith	Graves, Donald	Yes	500	Month
+10764	8114	4	1	4	6	50.00	1/19/2010	Forward in Faith	Graves, Donald	Yes	500	Month
+10970	8114	4	2	5	6	50	1/19/2010	Forward in Faith	Graves, Donald	Yes	500	Month
+11104	8114	4	3	4	6	50	1/19/2010	Forward in Faith	Graves, Donald	Yes	500	Month

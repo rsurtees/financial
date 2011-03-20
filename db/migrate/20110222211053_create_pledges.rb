@@ -16,6 +16,7 @@ class CreatePledges < ActiveRecord::Migration
     end
 
     Pledge.new.fill_db
+    Pledge.new.update_pledges
   end
 
   def self.down
