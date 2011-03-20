@@ -19,7 +19,8 @@
 #
 
 class PledgeObj
-  attr_reader :id, :user_id, :amount, :freq, :amount2, :freq2, :created, :total_pledge
+  attr_reader :id, :user_id, :amount, :freq, :amount2, :freq2, :created, :total_pledge,
+              :pledge_09, :pledge_10, :pledge_11, :pledge_12, :pledge_13
 
   def initialize()
     @id = @user_id = @amount = @freq = @amount2 = @freq2 = nil

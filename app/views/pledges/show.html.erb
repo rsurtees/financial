@@ -25,6 +25,25 @@
   <%= @pledge.user_id %>
 </p>
 
+<p>
+  <b>2009 FIF Received:</b>
+  <%= @pledge.pledge_09 %>
+</p>
+
+<p>
+  <b>2010 FIF Received:</b>
+  <%= @pledge.pledge_10 %>
+</p>
+
+<p>
+  <b>2011 FIF Received:</b>
+  <%= @pledge.pledge_11 %>
+</p>
+
+<p>
+  <b>FIF Received so far:</b>
+  <%= (@pledge.pledge_09 + @pledge.pledge_10 + @pledge.pledge_11 + @pledge.pledge_12 + @pledge.pledge_13) %>
+</p>
 
 <%= link_to 'Edit', edit_pledge_path(@pledge) %> |
 <%= link_to 'Back', pledges_path %>
