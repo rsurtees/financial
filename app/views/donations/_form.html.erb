@@ -17,15 +17,15 @@
   </div>
   <div class="field">
     <%= f.label :user_id %><br />
-    <%= f.text_field :user_id %>
+    <%= f.select( :user_id, User.new.select_list)%>
   </div>
   <div class="field">
     <%= f.label :weekdate_id %><br />
-    <%= f.text_field :weekdate_id %>
+    <%= f.select( :weekdate_id, Weekdate.new.select_list)%>
   </div>
   <div class="field">
     <%= f.label :budget_id %><br />
-    <%= f.text_field :budget_id %>
+    <%= f.select( :budget_id, Budget.new.select_list)%>
   </div>
   <div class="actions">
     <%= f.submit %>

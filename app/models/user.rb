@@ -54,6 +54,15 @@ class User < ActiveRecord::Base
   has_many :donations
   has_one :pledge, :dependent => :destroy
 
+  def select_list
+	all_users = User.find(:all, :order => [:surname, :first])
+	user_array = Array[["User Name", nil]]
+	all_users.each do |u|
+	  user_array.push Array[u.surname + ", " + u.first, u.id ]
+	end
+	return user_array
+  end
+
   def fill_db
     data_file = File.open("/Users/Shared/NBC2010/NameAddress.tmp")
     data_records = data_file.readlines("\r")

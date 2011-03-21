@@ -23,7 +23,7 @@
     <td><%= weekdate.day %></td>
     <td><%= weekdate.week %></td>
     <td><%= weekdate.date_string %></td>
-    <td><%= link_to 'Show', weekdate %></td>
+    <td><%= link_to 'Show', "/weekdates/#{weekdate.id}" %></td>
     <td><%= link_to 'Edit', edit_weekdate_path(weekdate) %></td>
     <td><%= link_to 'Destroy', weekdate, :confirm => 'Are you sure?', :method => :delete %></td>
   </tr>

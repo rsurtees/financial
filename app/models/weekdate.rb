@@ -24,6 +24,15 @@ end
 class Weekdate < ActiveRecord::Base
   has_many :donations
 
+  def select_list
+	all_dates = Weekdate.find(:all)
+	date_array = Array[["Sunday", nil]]
+	all_dates.each do |d|
+	  date_array.push Array[d.date_string, d.id ]
+	end
+	return date_array
+  end
+
 
   #
   # Determine the number of days in each month

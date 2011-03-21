@@ -31,6 +31,15 @@ end
 class Budget < ActiveRecord::Base
   has_many :donations
 
+  def select_list
+	all_budgets = Budget.find(:all, :order => [:description])
+	budget_array = Array[["Budget Items", nil]]
+	all_budgets.each do |b|
+	  budget_array.push Array[b.description, b.id ]
+	end
+	return budget_array
+  end
+
   def fill_db
     data_file = File.open("/Users/Shared/NBC2010/Budget.tmp")
     data_records = data_file.readlines("\r")
