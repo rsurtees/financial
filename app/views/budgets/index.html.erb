@@ -13,7 +13,7 @@
   <tr>
 	<td><%= budget.id %></td>
     <td><%= budget.description %></td>
-    <td><%= link_to 'Show', "/budgets/#{budget.id}" %></td>
+    <td><%= link_to 'Show', budget %></td>
     <td><%= link_to 'Edit', edit_budget_path(budget) %></td>
     <td><%= link_to 'Destroy', budget, :confirm => 'Are you sure?', :method => :delete %></td>
   </tr>

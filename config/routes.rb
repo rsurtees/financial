@@ -2,42 +2,32 @@ Financials::Application.routes.draw do
 	
   root :to => "pages#home"
 
-  match '/currentyear', :to => 'pages#currentyear'
-  match '/weekdate',   :to => 'pages#weekdate'
-  match '/budget',    :to => 'pages#budget'
-  match '/pledge',  :to => 'pages#pledge'
-  match '/user',  :to => 'pages#user'
-  match '/donation', :to => 'pages#donation'
+  match '/current_year', :to => 'currentyears#index'
+  match '/weekdates',   :to => 'weekdates#index'
+  match '/budgets',    :to => 'budgets#index'
+  match '/pledges',  :to => 'pledges#index'
+  match '/users',  :to => 'users#index'
+  match '/donations', :to => 'donations#index'
   match '/about', :to => 'pages#about'
-
-  get "pages/home"
-
-  get "pages/current_year"
-
-  get "pages/weekdate"
-
-  get "pages/budget"
-
-  get "pages/pledge"
-
-  get "pages/user"
-
-  get "pages/donation"
-
-  get "pages/about"
 
 
   resources :current_years
+  resources :current_year
 
   resources :donations
+  resources :donation
 
   resources :pledges
+  resources :pledge
 
   resources :users
+  resources :user
 
   resources :budgets
+  resources :budget
 
   resources :weekdates
+  resources :weekdate
 
   resources :about
 

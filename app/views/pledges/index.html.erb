@@ -22,7 +22,7 @@
     <td><%= pledge.user_id %></td>
     <td><% puts pledge.total_pledge %>
 	    <%= pledge.total_pledge %></td>
-    <td><%= link_to 'Show', "/pledges/#{pledge.id}" %></td>
+    <td><%= link_to 'Show', pledge %></td>
     <td><%= link_to 'Edit', edit_pledge_path(pledge) %></td>
     <td><%= link_to 'Destroy', pledge, :confirm => 'Are you sure?', :method => :delete %></td>
   </tr>

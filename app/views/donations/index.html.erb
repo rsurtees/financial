@@ -19,7 +19,7 @@
     <td><%= donation.weekdate.qmw %></td>
     <td><%= donation.weekdate.date_string %></td>
     <td><%= donation.budget.description %></td>
-    <td><%= link_to 'Show', "/donations/#{donation.id}" %></td>
+    <td><%= link_to 'Show', donation %></td>
     <td><%= link_to 'Edit', edit_donation_path(donation) %></td>
     <td><%= link_to 'Destroy', donation, :confirm => 'Are you sure?', :method => :delete %></td>
   </tr>
