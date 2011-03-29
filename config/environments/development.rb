@@ -23,8 +23,8 @@ Financials::Application.configure do
   # Only use best-standards-support built into browsers
   config.action_dispatch.best_standards_support = :builtin
 
-  LASTYEAR = 2010
-  FIRSTSUNDAY = 3
+  LASTYEAR = 2011
+  FIRSTSUNDAY = 2
 
 end
 

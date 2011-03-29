@@ -6,7 +6,7 @@ class CreateBudgets < ActiveRecord::Migration
       t.timestamps
     end
 
-    Budget.new.fill_db
+    #Budget.new.fill_db
   end
 
   def self.down

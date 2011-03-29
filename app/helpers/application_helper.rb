@@ -10,4 +10,11 @@ module ApplicationHelper
     end
   end
 
+  def testrun
+    outfile = File.open("TestFile.txt","w")
+    puts "This is the first line."
+    puts "This is the last line."
+    outfile.close
+  end
+
 end

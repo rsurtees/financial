@@ -17,7 +17,7 @@ class CreateUsers < ActiveRecord::Migration
       t.timestamps
     end
 
-    User.new.fill_db
+    #User.new.fill_db
 
   end
 

@@ -15,7 +15,7 @@
 <% @donations.each do |donation| %>
   <tr>
     <td><%= (sprintf("%.2f", donation.amount)).rjust(10) %></td>
-    <td><%= donation.user_id %></td>
+    <td><%= donation.user.surname + ", " + donation.user.first %></td>
     <td><%= donation.weekdate.qmw %></td>
     <td><%= donation.weekdate.date_string %></td>
     <td><%= donation.budget.description %></td>

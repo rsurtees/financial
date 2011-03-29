@@ -9,7 +9,7 @@ class CreateDonations < ActiveRecord::Migration
       t.timestamps
     end
 
-    Donation.new.fill_db
+    #Donation.new.fill_db
 
   end
 

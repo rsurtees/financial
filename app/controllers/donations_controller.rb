@@ -1,4 +1,5 @@
 class DonationsController < ApplicationController
+	@title = "Donation Records"
   # GET /donations
   # GET /donations.xml
   def index

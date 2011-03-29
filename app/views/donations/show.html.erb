@@ -7,17 +7,17 @@
 
 <p>
   <b>User:</b>
-  <%= @donation.user_id %>
+  <%= @donation.user.surname + ", " + @donation.user.first %>
 </p>
 
 <p>
   <b>Weekdate:</b>
-  <%= @donation.weekdate_id %>
+  <%= @donation.weekdate.date_string %>
 </p>
 
 <p>
   <b>Budget:</b>
-  <%= @donation.budget_id %>
+  <%= @donation.budget.description %>
 </p>
 
 

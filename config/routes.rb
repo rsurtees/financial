@@ -2,33 +2,14 @@ Financials::Application.routes.draw do
 	
   root :to => "pages#home"
 
-  match '/current_year', :to => 'currentyears#index'
-  match '/weekdates',   :to => 'weekdates#index'
-  match '/budgets',    :to => 'budgets#index'
-  match '/pledges',  :to => 'pledges#index'
-  match '/users',  :to => 'users#index'
-  match '/donations', :to => 'donations#index'
   match '/about', :to => 'pages#about'
 
-
   resources :current_years
-  resources :current_year
-
   resources :donations
-  resources :donation
-
   resources :pledges
-  resources :pledge
-
   resources :users
-  resources :user
-
   resources :budgets
-  resources :budget
-
   resources :weekdates
-  resources :weekdate
-
   resources :about
 
   # The priority is based upon order of creation:

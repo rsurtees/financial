@@ -19,8 +19,8 @@ ActiveRecord::Schema.define(:version => 20110223021550) do
   end
 
   create_table "current_years", :force => true do |t|
-    t.integer  "year",       :limit => 4, :default => 2010
-    t.integer  "first_week", :limit => 1, :default => 3
+    t.integer  "year",       :limit => 4, :default => 2011
+    t.integer  "first_week", :limit => 1, :default => 2
     t.datetime "created_at"
     t.datetime "updated_at"
   end
