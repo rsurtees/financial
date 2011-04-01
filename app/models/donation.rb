@@ -41,6 +41,9 @@ class Donation < ActiveRecord::Base
 	belongs_to :user
 	belongs_to :budget
 	belongs_to :weekdate
+
+  validates_numericality_of :amount, :greater_than => 0.0,
+      :message => "should be greater that 0.0"
 	
   def fill_db
     wd = Weekdate.new
