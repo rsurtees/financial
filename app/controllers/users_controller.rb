@@ -80,4 +80,14 @@ class UsersController < ApplicationController
       format.xml  { head :ok }
     end
   end
+
+  # DELETE /users/1
+  # DELETE /users/1.xml
+  def latex
+    @user = User.find(params[:id])
+    pdf = UserTex.new
+    pdf.createTex(@user.id)
+    pdf.createPDF
+  end
+
 end
