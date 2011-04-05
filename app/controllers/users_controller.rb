@@ -13,6 +13,8 @@ class UsersController < ApplicationController
   # GET /users/1
   # GET /users/1.xml
   def show
+    puts params
+    self.latex
     @user = User.find(params[:id])
 
     respond_to do |format|
@@ -85,9 +87,8 @@ class UsersController < ApplicationController
   # DELETE /users/1.xml
   def latex
     @user = User.find(params[:id])
-    pdf = UserTex.new
-    pdf.createTex(@user.id)
-    pdf.createPDF
+    pdf = UserTex.new params[:id]
+    pdf.create_pdf_file
   end
 
 end

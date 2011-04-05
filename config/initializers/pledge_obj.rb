@@ -1,0 +1,35 @@
+class PledgeObj
+  attr_reader :id, :user_id, :amount, :freq, :amount2, :freq2, :created, :total_pledge,
+              :pledge_09, :pledge_10, :pledge_11, :pledge_12, :pledge_13
+  attr_writer :total_pledge, :pledge_09, :pledge_10, :pledge_11, :pledge_12, :pledge_13
+
+  def initialize()
+    @id = @user_id = @amount = @freq = @amount2 = @freq2 = nil
+    @total_pledge = @pledge_09 = @pledge_10 = @pledge_11 = @pledge_12 = @pledge_13 = 0.0
+    @created = Date.today
+  end
+
+  def create(aLine)
+    @id = aLine.shift.to_i
+    @user_id = aLine.shift.to_i
+    aLine.shift
+    @amount = aLine.shift.to_f
+    @freq = aLine.shift
+    @amount2 = aLine.shift.to_f
+    @freq2 = aLine.shift
+    @total_pledge = @amount*52.0*3.0 if @freq == "Week"
+    @total_pledge = @amount*12.0*3.0 if @freq == "Month"
+    @total_pledge = @amount*4.0*3.0 if @freq == "Quarter"
+    @total_pledge = @amount*3.0 if @freq == "Year"
+    @total_pledge = @amount if @freq == "Total"
+    @total_pledge += @amount*52.0*3.0 if @freq == "Week"
+    @total_pledge += @amount*12.0*3.0 if @freq == "Month"
+    @total_pledge += @amount*4.0*3.0 if @freq == "Quarter"
+    @total_pledge += @amount*3.0 if @freq == "Year"
+    @total_pledge += @amount if @freq == "Total"
+  end
+
+  def to_s()
+    "#{@id}\t#{@user_id}\t#{@amount}\t#{@freq}\t#{@amount2}\t#{@freq2}\t#{@total_pledge}\t#{@created}"
+  end
+end

@@ -44,6 +44,9 @@ class DonationsController < ApplicationController
     @donation = Donation.new(params[:donation])
 
     respond_to do |format|
+      u = User.find(@donation.user_id)
+      u.status=true
+      u.save
       if @donation.save
         format.html { redirect_to(@donation, :notice => 'Donation was successfully created.') }
         format.xml  { render :xml => @donation, :status => :created, :location => @donation }

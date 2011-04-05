@@ -27,13 +27,23 @@ class Pledge < ActiveRecord::Base
     @total_pledge = self.amount*4.0*3.0 if self.freq == "Quarter"
     @total_pledge = self.amount*3.0 if self.freq == "Year"
     @total_pledge = self.amount if self.freq == "Total"
-    @total_pledge += self.amount2*52.0*3.0 if self.freq2 == "Week"
-    @total_pledge += self.amount2*12.0*3.0 if self.freq2 == "Month"
-    @total_pledge += self.amount2*4.0*3.0 if self.freq2 == "Quarter"
-    @total_pledge += self.amount2*3.0 if self.freq2 == "Year"
+    @total_pledge += (self.amount2*52.0*3.0) if self.freq2 == "Week"
+    @total_pledge += (self.amount2*12.0*3.0) if self.freq2 == "Month"
+    @total_pledge += (self.amount2*4.0*3.0) if self.freq2 == "Quarter"
+    @total_pledge += (self.amount2*3.0) if self.freq2 == "Year"
     @total_pledge += self.amount2 if self.freq2 == "Total"
     puts "Total pledges is #{@total_pledge} and Amount is #{self.amount}"
     return @total_pledge
+  end
+
+  def fif_received
+    pldg = self.pledge_09 + self.pledge_10 + self.pledge_11
+    dons = Donation.find :all, :conditions => "user_id = #{self.user_id} AND budget_id = 6"
+    puts dons.inspect
+    dons.each do |d|
+      pldg += d.amount
+    end if (dons.count > 0)
+    return pldg
   end
 
   def update_pledges

@@ -2,12 +2,17 @@ class UserTex
 
 
   def initialize(userid=0)
-	@userid = userid
+	  @userid = userid.to_i
     @lastQ = (Time.now.strftime("%m").to_i-1)/3
     @prolog_quarter_text = @prolog_annual_text if @lastQ == 0
     @lastQ = 4 if @lastQ == 0
-    @fileone = File.new("#{@userid}singlepage.tex", "w")
-    @filetwo = File.new("#{@userid}multipage.tex", "w")
+    if (@userid < 1) then
+      @fileone = File.new("singlepage.tex", "w")
+      @filetwo = File.new("multipage.tex", "w")
+    else
+      @fileone = File.new("#{@userid}singlepage.tex", "w")
+      @filetwo = File.new("#{@userid}multipage.tex", "w")
+    end
     @whichfile = @fileone
 
     @gtotal = 0.00
@@ -61,8 +66,10 @@ class UserTex
 \newcommand{\fourthline}[4]{ \hline \hline & \em\$#1 & \em#2 Quarter &  & \em\$#3 & \em\$#4 \checklines}
 \newcommand{\totalline}[3]{ \hline \hline
  \em General Total & \textbf{\em\$#1} &  & \em Designated Total & \em\$#2 & \textbf{\em\$#3}}
-\newcommand{\pledge}[2]{\em\Large Your ``Forward in Faith'' pledge was: \$#1 per #2}
-\newcommand{\totpledge}[1]{\em\Large Your ``Forward in Faith'' pledge was: \$#1}
+\newcommand{\pledge}[3]{\em\large Your 5-year ``Forward in Faith'' pledge was \$#1
+So far we have received #3.}
+\newcommand{\totpledge}[2]{\em\large Your 5-year ``Forward in Faith'' pledge was \$#1.
+So far we have received #2.}
 \newcommand{\nopledge}{{\em\Large We haven't received your ``Forward in Faith'' pledge yet.}
  \\ If you wish to do so, please contact Charlie Carlin for further information.}
 \newcommand{\tabletop}{\begin{tabular}{||c|r||c|c|r||r||} \hline\hline}
@@ -76,7 +83,7 @@ class UserTex
 \newcommand{\leadtext}{\thispagestyle{empty}
 \begin{letter}\name{\recipient}{\begin{center}
 \churchaddress\
-\underline{\textbf{Last year's contributions. Created on \today}}%
+\underline{\textbf{Report of contributions created on \today}}%
 \\
 {\uAddress}
 \end{center}}
@@ -104,13 +111,10 @@ of intangible religious benefits.}}
 END_TEXT
 
     @prolog_quarter_text = <<'END_TEXT'
-our records indicate that you made the following cash contributions.
+our records indicate that you made the following cash contributions
+for each of the previous quarters.
 Should you have any questions about any amount reported or not reported on this statement,
-please notify the church financial secretary, Margaret Surtees, within 90 days of the
-date of this statement.
-Statements that are not questioned within 90 days will be assumed to be accurate,
-and any supporting documentation (such as offering envelopes) retained by the church
-may be discarded.
+please notify the church financial secretary, Margaret Surtees.
 {\em No goods or services were provided to you by the church in connection
 with any contribution, or their value was insignificant, or consisted entirely
 of intangible religious benefits.}}
@@ -291,6 +295,8 @@ END_TEXT
   end
 
   def processUser(user)
+    user.status = false
+    user.save
     @counterlines = [0, 0, 0, 0]
     q             = 0
     while ((q+=1) <= @lastQ) do
@@ -325,10 +331,12 @@ END_TEXT
       if (user.pledge.freq == 'Total') then
         @whichfile.print getmacro('totpledge')
         printfloat user.pledge.amount
+        printdollar user.pledge.fif_received
       else
         @whichfile.print getmacro('pledge')
         printfloat user.pledge.amount
         printparam user.pledge.freq
+        printdollar user.pledge.fif_received
       end
       @whichfile.print '}'
     end
@@ -377,7 +385,7 @@ END_TEXT
     else
       users = User.find(:all, :order => :surname)
       users.each do |u|
-        #next unless u.status == 'No'
+        next unless (u.status? || (@userid < 0))
         allD = Donation.find :all, :conditions => "user_id = #{u.id}"
         unless (allD.length == 0) then
           processUser u
@@ -398,8 +406,5 @@ END_TEXT
     @fileone.close()
     @filetwo.close()
 
-    (system "xelatex #{@userid}singlepage.tex") ||
-    (system "xelatex #{@userid}multipage.tex")
-    (system "rm *.log *.tex *.aux")
   end
 end

@@ -6,9 +6,9 @@
     <th>First</th>
     <th>Surname</th>
 	<th>Pledge</th>
-    <th>Street Address<br>PO Box</br></th>
-    <th>Town<br>State</br></th>
-    <th>Zip<br>Email</br></th>
+    <th>Street Address PO Box</th>
+    <th>Town State Zip</th>
+    <th>Email</br></th>
     <th>Status</th>
     <th></th>
     <th></th>
@@ -21,11 +21,12 @@
     <td><%= user.first %></td>
     <td><%= user.surname %></td>
 	<td><%= user.pledge_id %></td>
-    <td><%= user.street %><br><%= user.po_box %></br></td>
-    <td><%= user.town %><br><%= user.state %></br></td>
-    <td><%= user.zip %><br><%= user.email %></br></td>
+    <td><%= user.street %> <%= user.po_box %></td>
+    <td><%= user.town %> <%= user.state %> <%= user.zip %></td>
+    <td><%= user.email %></td>
     <td><%= user.status %></td>
     <td><%= link_to 'Show', user %></td>
+    <td><%= link_to 'Create PDF', user, :controller => :latex, :action => :latex %></td>
     <td><%= link_to 'Edit', edit_user_path(user) %></td>
     <td><%= link_to 'Destroy', user, :confirm => 'Are you sure?', :method => :delete %></td>
   </tr>
